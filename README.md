@@ -24,9 +24,10 @@ paper1:
    hid:
    - 304
    title: This is my paper about Big Data and Astrophysics
-   abstract: How has Big Data been applied to existing Astrophysics and Astronomical
-   datasets and how, if a all, has the insight gained from mining of this data altered
-   the methods or technology used in the observational process.
+   abstract: >
+      How has Big Data been applied to existing Astrophysics and Astronomical
+      datasets and how, if a all, has the insight gained from mining of this data altered
+      the methods or technology used in the observational process.
    url: https://github.com/bigdata-i523/hid304/paper1/report.pdf
    type: latex
    status: in progress
@@ -41,8 +42,9 @@ paper2:
    hid:
    - 0304
    title: This is my paper about Big Data and Analytics in Deep Space Telemetry and Navigation
-   abstract: How is big data used to guide telemetry for deep space missions and improve
-   the effectiveness of future missions for unmanned spacecraft.
+   abstract: >
+      How is big data used to guide telemetry for deep space missions and improve
+      the effectiveness of future missions for unmanned spacecraft.
    url: https://github.com/bigdata-i523/hid304/paper2/report.pdf
    type: latex
    status: in progress
