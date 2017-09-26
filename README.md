@@ -61,12 +61,12 @@ Just use one type and delete the line with
 project:
    type: project
    author:
-   - Gregor von Laszewski
+   - Ricky Carmickle
    pid:
    - 000
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+   title: 
+   abstract: 
+   url: https://github.com/bigdata-i523/hid304/project/report.pdf
    type: latex
    status: in progress
 ```
