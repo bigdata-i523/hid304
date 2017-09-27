@@ -23,7 +23,7 @@ paper1:
    - Ricky Carmickle
    hid:
    - 304
-   title: This is my paper about Big Data and Astrophysics
+   title: Big Data and Astrophysics
    abstract: >
       How has Big Data been applied to existing Astrophysics and Astronomical
       datasets and how, if a all, has the insight gained from mining of this data altered
@@ -41,7 +41,7 @@ paper2:
    - Ricky Carmickle
    hid:
    - 0304
-   title: This is my paper about Big Data and Analytics in Deep Space Telemetry and Navigation
+   title: Big Data and Analytics in Deep Space Telemetry and Navigation
    abstract: >
       How is big data used to guide telemetry for deep space missions and improve
       the effectiveness of future missions for unmanned spacecraft.
