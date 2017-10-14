@@ -30,7 +30,7 @@ paper1:
       the methods or technology used in the observational process.
    url: https://github.com/bigdata-i523/hid304/paper1/report.pdf
    type: latex
-   status: 100% Oct 13 17
+   status: 0% returned without review frozen
    chapter: Physics
 ```
 
