@@ -1,0 +1,43 @@
+---
+owner:
+    hid: 304
+    name: Ricky Carmickle
+    url: https://github.com/bigdata-i523/hid304
+paper1:
+    abstract: 'How has Big Data been applied to existing Astrophysics and Astronomical
+        datasets and how, if a all, has the insight gained from mining of this data
+        altered the methods or technology used in the observational process.
+
+        '
+    author:
+        - Ricky Carmickle
+    chapter: Physics
+    hid:
+        - 304
+    status: 0% returned without review frozen
+    title: Big Data and Astrophysics
+    type: latex
+    url: https://github.com/bigdata-i523/hid304/paper1/report.pdf
+paper2:
+    abstract: 'How is big data used to guide telemetry for deep space missions and
+        improve the effectiveness of future missions for unmanned spacecraft.
+
+        '
+    author:
+        - Ricky Carmickle
+    hid:
+        - 196
+    status: in progress
+    title: Big Data and Analytics in Deep Space Telemetry and Navigation
+    type: latex
+    url: https://github.com/bigdata-i523/hid304/paper2/report.pdf
+project:
+    abstract: null
+    author:
+        - Ricky Carmickle
+    pid:
+        - 0
+    status: in progress
+    title: null
+    type: latex
+    url: https://github.com/bigdata-i523/hid304/project/report.pdf
