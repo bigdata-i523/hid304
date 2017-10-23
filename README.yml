@@ -16,7 +16,7 @@ paper1:
     status: Nov 1 17 100%
     title: Big Data and Astrophysics
     type: latex
-    url: https://github.com/bigdata-i523/hid304/paper1/report.pdf
+    url: https://github.com/bigdata-i523/hid304/paper1/
 paper2:
     abstract: >
         How is big data used to guide telemetry for deep space missions and
@@ -28,7 +28,7 @@ paper2:
     status: in progress
     title: Big Data and Analytics in Deep Space Telemetry and Navigation
     type: latex
-    url: https://github.com/bigdata-i523/hid304/paper2/report.pdf
+    url: https://github.com/bigdata-i523/hid304/paper2/
 project:
     abstract: null
     author:
@@ -38,4 +38,4 @@ project:
     status: in progress
     title: null
     type: latex
-    url: https://github.com/bigdata-i523/hid304/project/report.pdf
+    url: https://github.com/bigdata-i523/hid304/project/
