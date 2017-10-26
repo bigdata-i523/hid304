@@ -21,3 +21,7 @@
 * Address: Nashville IN, 4950 Bellsville Pike
 * Latitude: 39.130256
 * Longitude: -86.152833 
+
+# Meetings
+
+* 10/23/2017 Attended class meeting for online students
