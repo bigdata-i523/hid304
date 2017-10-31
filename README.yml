@@ -5,15 +5,13 @@ owner:
     url: https://github.com/bigdata-i523/hid304
 paper1:
     abstract: >
-        How has Big Data been applied to existing Astrophysics and Astronomical
-        datasets and how, if a all, has the insight gained from mining of this data
-        altered the methods or technology used in the observational process.
+        This paper will provide an overview of how Big Data has been applied to existing astrophysics and astronomical datasets. It will discuss the two-way relationship between big data and astrophysics which has seen each field advance because of the pressures applied and capabilities developed by the other.  Improvements in  cameras, which capture the observations from telescopes, have opened the door to more detailed imagery of the sky which can be generated at increasing rates and observation platforms are harnessing this detail into more precise astronomical research projects which challenge every part of the big data pipeline.
     author:
         - Ricky Carmickle
     chapter: Physics
     hid:
         - 304
-    status: Nov 1 17 50%
+    status: Nov 1 17 100%
     title: Big Data and Astrophysics
     type: latex
     url: https://github.com/bigdata-i523/hid304/paper1/
