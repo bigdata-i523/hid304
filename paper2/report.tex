@@ -1,0 +1,126 @@
+\documentclass[sigconf]{acmart}
+
+\input{format/i523}
+
+\begin{document}
+\title{Big Data in Deep Space Telemetry and Navigation}
+
+
+\author{Rick Carmickle}
+\orcid{hid3042}
+\affiliation{%
+  \institution{Indiana University School of Informatics and Computing}
+  \streetaddress{901 E 10th St}
+  \city{Bloomington} 
+  \state{Indiana} 
+  \postcode{47408}
+}
+\email{rcarmick@umail.iu.edu}
+
+
+% The default list of authors is too long for headers}
+\renewcommand{\shortauthors}{R, Carmickle}
+
+
+\begin{abstract}
+Big data has begun to impact telemetry and navigation for manned and unmanned space travel. Major space programs are the entities which control the infrastructure of telemetry and deep space data. The current bottleneck in the volume, variety, and veracity of deep space and telemetry data is the transmission technology uses to communicate across space. Space Programs are poised to shift from radio-wave to laser and infrared communication methods which will allow greater volumes of data to be transmitted and quickly make big data more applicable to this type of data.   
+\end{abstract}
+
+
+\keywords{Big Data, i523, Telemetry, Deep Space, NASA Deep Space Network, Laser Communications Relay Demonstration}
+
+
+\maketitle
+
+
+
+\section{Introduction}
+Big data in space telemetry and navigation concerns the process of transmitting data between spacecraft and controllers on earth, and storing data from spacecraft. These Spacecraft can be either manned or unmanned and return different volumes and types of data depending on their purpose. The nearest spacecraft are those in low-earth orbit \cite{Allain2015}, between 400 and 1000 miles above the earth's surface and the farthest is Voyager 1 which is currently just over 140 AU (Astronomical Units) or approximately 13 billion miles from Earth \cite{Laboratory2017}. The major space communications networks are operated by the United States, Europe, Russia, China, India, and Japan. Communications between spacecraft, satellites, and earth-bound communication centers has historically been facilitated with radio and microwave wavelength signals \cite{Bricker1990}. These frequencies allow communication at speeds up to 100 megabits per second in the case of the Lunar Reconnaissance Orbiter \cite{Hsu2010}. Deep Space communications are, in late 2017, on the cusp of developments which will open the big data opportunities substantially \cite{Laboratory2017a}. The volumes of telemetry and science data transmitted between tracking stations and spacecraft are measured in megabits per second for unmanned spacecraft to gigabits per second for manned missions \cite{Hsu2010}. 
+
+
+\section{Deep Space Data Infrastructure}
+Deep space and telemetry data, gathered at a rate which could be considered big data, is done by the world's largest government space programs. The United States, Russia, Europe, China, Japan, and India have programs with ground tracking stations capable of receiving deep space data and launch capabilities to carry manned spacecraft to orbit or unmanned spacecraft beyond orbit \cite{Imbriale2002}. 
+
+\subsection{NASA Deep Space Network}
+The NASA Deep Space Network (NASA DSN)has three core stations located in Goldstone in the Mjoave Desert, California, near Madrid, Spain, and near Canberra, Australia. Each location includes a 70 meter main antenna, a 34 meter high efficiency antenna,  ten additional deep-space stations with parabolic reflector antennas, a  34 meter beam waveguide antenna which can incorporate new electronics easily, and a 26 meter antenna for tracking satellites in earth orbit \cite{Imbriale2002}. NASA DSN is able to receive data with signal strength as weak ``20 billion times weaker than the power level in a modern digital wristwatch battery'' \cite{Facts2005} which is the signal strength currently received from the Voyager I \cite{Laboratory2017}. NASA DSN is equipped to communicate in S-band and X-band radio frequencies, near-infrared frequencies, and is equipped to be adapted to new data transmission technologies \cite{Facts2005}. 
+
+\subsection{ESTRACK}
+The European Space Agency's (ESA) Deep Space Network \cite{ERA2017} has nine core stations in South America, Europe, Australia, and Atlantic islands. ESTRACK has cooperative network stations through the NASA network, and in Canada, South Africa, and Japan. The sensitivity of ESTRACK rivals that of the NASA network and is also equipped to adapt to emerging technology beyond S- and X-band radio frequency \cite{ERA2017}. 
+
+
+\subsection{Soviet Deep Space Network}
+The Russian State Corporation for Space Activities, Roscosmos, still carries out deep space communication with the Soviet Deep Space Network \cite{Mitchell2003}. The three main antennas date to before the collapse of the Soviet Union, and have seen few hardware upgrades since. The network includes two 70 meter antennas, one in Crimea and one on the Eastern border of Russia along with a 64 meter antenna near Moscow \cite{revolvy2012}. There are many other telemetry stations in Russia which complement the three main antennas for near-earth missions. The Soviet Deep Space Network has successfully exchanged data flows of 120,000 bits per second (0.12 megabits) per second \cite{revolvy2012}. This network does not have global reach, and ofter cooperates with the European Space Agency. 
+
+
+\subsection{Chinese Deep Space Network}
+The Chinese Deep Space Network includes multiple stations in China and five stations elsewhere in Australia, Pakistan, Chile, Namibia, and Kenya \cite{2011}. The Chinese network includes 18, 35, 40, 50, and 64 meter dishes around the world with upgrades in development at many of these sites as part of China's ambitions in lunar exploration \cite{Luan2015}. 
+
+
+\subsection{Indian Deep Space Network}
+The Indian Deep Space Network is built around the Indian Space Research Organization's Telemetry, Tracking and Command Network (ISTRAC). ISTRAC is augmented by several dishes including a 32, 18, and 11 meter dishes. ISTRAC has installations on India, Russia, South America, Hawaii, and multiple islands in the Pacific and is augmented by the NASA Deep Space Network \cite{Network2012}. 
+
+\subsection{Usuda Deep Space Network}
+The Usada Deep Space Center has a core facility in Usada, Japan. The facility's main receiver is a 64-meter beam waveguide antenna. Japan's beam waveguide technology was adopted by NASA into their Deep Space Network. The network includes four additional locations in Japan and stations in Sweden, the Atlantic near Morocco, Western Australia, and Santiago, Chile \cite{Sakushi17}. 
+
+
+\section{Data Flow from Telemetry and Deep Space Data}
+Each of the major space programs operates a network of ground stations which gather data. NASA's Deep Space Network operates the highest volume of data flow among these programs \cite{AndrewODea2013}. Unmanned spacecraft return data measured in megabits per second, which is a challenging flow of data, but not every mission poses the challenges characteristic of big data. The transmission of data becomes increasingly expensive as a space craft travels farther from earth. The Voyager 1 transmits data in real-time at a rate of 160 bits (20 bytes) per second and its 1970s era computing technology makes the data it returns expensive, and scientifically valuable, but not very big data \cite{Laboratory2017}. Newer deep space spacecraft have better broadcast capabilities and can return more data when closer to the earth. The most data-productive unmanned spacecraft return data at a rate of megabits per second.
+
+Data from these craft can grow large over the duration of a mission. For example, the Mars Reconnaissance Orbiter (MRO) \cite{Parnell2017}, as of 2017, has returned over 300 terabits \cite{Laboratory2017a} (37.5 terabytes) of imaging data of the Martian surface. The volume of data returned by this mission is still less than what the MRO's sensors are capable of observing. The MRO carries multiple cameras with different resolution qualities. The Context Camera \cite{Laboratory2017a} has photographed 99.1 percent of the Martian surface and 60.4 percent  has been photographed twice. The MRO also carries the High Resolution Imaging Science Experiment (HiRISE) \cite{Parnell2017} which can zoom into changes to the surface which are spotted by the Context Camera. The higher resolution of the HiRISE has limited this camera's coverage to only three percent of the surface. Additional MRO cameras photograph the entire planet each day tracking weather changes and atmospheric conditions. Although the MRO has returned almost 40 terabytes of data, the imaging instruments it carries generate significantly more data than is transmitted back to earth. 
+
+
+The big data challenges in space telemetry data come from the manned spacecraft, which have been exclusively earth orbiting missions since the return of Apollo 17. The International Space Station (ISS) is the collaborative mission which manned missions for the US, European, and Russian space programs have focused on since Apollo 17 returned in 1972. The ISS generates significant scientific, telemetry, life support system, and even livestreamed video from crew members \cite{Betts2017}. The ISS has connectivity of 300 megabits per second and is continuously operating to return data \cite{Deb2001}. Upcoming plans to add storage for additional experiments will increase the data generates and broadcast back and NASA is working to increase transmission capacity to the ISS \cite{Deb2001}. 
+
+
+
+
+\section{Data Processing in Telemetry and Deep Space Data}
+Modern spacecraft exchange data via radio wave transmissions. This data is of course transmitted in binary, but receivers can be either digital or analog. Data is encoded using pulse code modulation and transferred in a way that creates a level of redundancy in the signal to maximize the quality of data received by communications networks \cite{AndrewODea2013}. The structure of the expected data flow from any given sensor is known before the spacecraft is ever launched. The main risk to the quality of  data is noise introduced to the data stream by earth's atmosphere, temperature variations through space which the transfer traverses, or losses of signal connection during transmission. Once data is received, it is a matter of decoding from binary to the format required for any particular data stream \cite{Metry2013,Cola2011}.
+
+
+The variety of data received from spacecraft is dictated by the variety of cameras and sensors any given vessel carries. The expected data streams from any given instrument are well known and well-tested by researchers long before a spacecraft is launched. These data streams require processing once received on earth to correct for noise and missing periods of data \cite{Pages2013}. The analysis of scientific research data is unique to each instrument and this raw data is rarely made public. The structure of this data, such as categories of data and the expected length of a dataset, is known and planned before the data is generated. With the largest datasets measured in terabytes over the course of a mission, the data is certainly large, but well within the capacity of many storage services \cite{Jacobson2016}. The search and query methods created for the largest big data generators, such as social media, genetics, and astronomy, are powerful enough to perform search functions on data from unmanned spacecraft.
+
+
+Telemetry data does, however, pose challenges in data variety. The ESA has created a network called 'Technology Exchange' where solutions to data processing are offered. Database management is essential since telemetry data is only of use when it is spatially and temporally noted, searchable, and quickly accessible \cite{Metry2013}. 
+
+
+\section{Big Data Changes in Telemetry and Deep Space Data}
+The primary limitation preventing deep space data from becoming truly big data is the limitations posed by radio wave communication \cite{Cola2011}. The radio receivers on earth are sensitive to the edge of the solar system. The camera definition and sensor sensitivity across the electromagnetic spectrum have improved dramatically in recent decades. The solar and nuclear power cells needed for extended deep-space travel are well developed \cite{Port2016}. The technological limits created by the 100 gigabit per second limit to radio wave transmissions are the bottleneck to unleashing big data in telemetry and deep space data. After decades of development and refinement of telecommunications technology, the theoretical limits of radio-wave communication have been reached \cite{Bricker1990}.
+
+
+Laser communication was first demonstrated in 2013 when NASA successfully transmitted an image of the Mona Lisa \cite{Pages2013} to the Lunar Reconnaissance Orbiter \cite{Hsu2010} and back to earth again. Laser optical technology uses wave lengths which are orders of magnitude shorter and will spread out significantly less than radio waves. Laser technology is also capable of transmitting at rates of 10 times the volume, with theoretical limits of 100 times the volume, of radio transmitters. The Laser Communications Relay Demonstration (LCRD) is an upcoming mission which will test the transmission process, encoding techniques, and atmospheric noise solutions for a laser communication system with a satellite in earth orbit \cite{JoshuaBuck2013}. The LCRD is in testing through 2017 and will be launched in 2019. Laser communication would make it possible to return data from spacecraft around the solar system in definition which would match the detail used to track environmental changes around earth.This communication method not only allows higher volume and quality of data, it can also transmit with lower power requirements and lighter transmitting equipment, which in turn allows more scientific sensors on any given spacecraft which again increases the volume of data returned \cite{Cola2011,JoshuaBuck2013}. 
+
+
+
+\section{Conclusion}
+Deep space and telemetry data is on the cusp of dramatic growth in the volume, variety and quality returned by deep space spacecraft. The technological shift from radio to laser transmissions will allow an order of magnitude more data volume to be transmitted from space, whether near-earth orbit or deep space \cite{Jacobson2016}. Researchers will be able to improve of definition, density, quality, and variety of data which any given deep space spacecraft will return. The analytical, storage, searchability, and visualization tools developed with big data projects will become far more applicable to deep space and telemetry data as this technology is developed. The demand for experimental access to the ISS and deep space missions is increasing every year \cite{Jacobson2016,Betts2017} and big data framework will grow more relevant as data transmission capability improves and the NASA Open Data project makes more of this data publicly available. 
+
+\begin{acks}
+
+  The authors would like to thank Dr. Gregor von Laszewski for his
+  support and allowing a focus on space travel-related data in this course. 
+
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{report} 
+
+\appendix
+
+We include an appendix with common issues that we see when students
+submit papers. One particular important issue is not to use the
+underscore in bibtex labels. Sharelatex allows this, but the
+proceedings script we have does not allow this.
+
+When you submit the paper you need to address each of the items in the
+issues.tex file and verify that you have done them. Please do this
+only at the end once you have finished writing the paper. To d this
+cange TODO with DONE. However if you check something on with DONE, but
+we find you actually have not executed it correcty, you will receive
+point deductions. Thus it is important to do this correctly and not
+just 5 minutes before the deadline. It is better to do a late
+submission than doing the check in haste. 
+
+\input{issues}
+
+\end{document}
