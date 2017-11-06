@@ -5,7 +5,22 @@ owner:
     url: https://github.com/bigdata-i523/hid304
 paper1:
     abstract: >
-        This paper will provide an overview of how Big Data has been applied to existing astrophysics and astronomical datasets. It will discuss the two-way relationship between big data and astrophysics which has seen each field advance because of the pressures applied and capabilities developed by the other.  Improvements in  cameras, which capture the observations from telescopes, have opened the door to more detailed imagery of the sky which can be generated at increasing rates and observation platforms are harnessing this detail into more precise astronomical research projects which challenge every part of the big data pipeline.
+        This paper will provide an overview of 
+        how Big Data has been applied to existing 
+        astrophysics and astronomical datasets. 
+        It will discuss the two-way relationship 
+        between big data and astrophysics which 
+        has seen each field advance because of 
+        the pressures applied and capabilities 
+        developed by the other.  Improvements in  
+        cameras, which capture the observations 
+        from telescopes, have opened the door to 
+        more detailed imagery of the sky which can 
+        be generated at increasing rates and 
+        observation platforms are harnessing this 
+        detail into more precise astronomical 
+        research projects which challenge every 
+        part of the big data pipeline.
     author:
         - Ricky Carmickle
     chapter: Physics
@@ -18,16 +33,28 @@ paper1:
 paper2:
     review: Nov 6 2017
     abstract: >
-        How is big data used to guide telemetry for deep space missions and
-        improve the effectiveness of future missions for unmanned spacecraft.
+        Big data has begun to impact telemetry and 
+        navigation for manned and unmanned space travel. 
+        Major space programs are the entities which 
+        control the infrastructure of telemetry and 
+        deep space data. The current bottleneck in the 
+        volume, variety, and veracity of deep space 
+        and telemetry data is the transmission technology 
+        uses to communicate across space. Space Programs 
+        are poised to shift from radio-wave to laser and 
+        infrared communication methods which will allow 
+        greater volumes of data to be transmitted and 
+        quickly make big data more applicable to this type 
+        of data. 
     author:
         - Ricky Carmickle
     hid:
         - 304
-    status: in progress
-    title: Big Data and Analytics in Deep Space Telemetry and Navigation
+    status: 100%
+    title: Big Data in Deep Space Telemetry and Navigation
     type: latex
     url: https://github.com/bigdata-i523/hid304/paper2/
+
 project:
     abstract: null
     author:
