@@ -6,10 +6,12 @@
 
 # Theory
 
+* 11/10/17 Completed All Theory Track Videos
 
 
 # Practice
 
+* 11/10/17 Accomplished Python Trach through 4.3.17 Installing Libraries
 
 # Writing
 
@@ -24,4 +26,4 @@
 
 # Meetings
 
-* 10/23/2017 Attended class meeting for online students
+* 10/23/17 Attended class meeting for online students
