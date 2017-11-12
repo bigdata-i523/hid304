@@ -2,7 +2,8 @@
 
 * 09/15/17 Started the class
 * 10/25/16 Catching up on office hour recordings
-* 
+* 10/26/17 Final Project Dataset with Spacewalk Data downloaded from NASA Open Data
+* 11/12/17 Completed code to get wikipedia infobox data on applicable space walks to assemble mission telemetry dataset 
 
 # Theory
 
