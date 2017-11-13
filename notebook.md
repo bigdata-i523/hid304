@@ -12,7 +12,7 @@
 
 # Practice
 
-* 11/10/17 Accomplished Python Trach through 4.3.17 Installing Libraries
+* 11/10/17 Accomplished Python Track through 4.3.17 Installing Libraries
 
 # Writing
 
@@ -28,3 +28,4 @@
 # Meetings
 
 * 10/23/17 Attended class meeting for online students
+* 11/13/17 Attended class meeting for online students
