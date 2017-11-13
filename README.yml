@@ -56,12 +56,25 @@ paper2:
     url: https://github.com/bigdata-i523/hid304/paper2/
 
 project:
-    abstract: null
+    abstract: >
+        This project will use data from the NASA Archives, 
+        The NASA Open Data Portal, and other available 
+        telemetry data from the US and Russian space 
+        programs to analyze American and Russian spacewalks. 
+        It will calculate the distance traveled, relative to 
+        the earth's surface, by astronauts and cosmonauts who 
+        performed Extra Vehicular Activities in earth orbit. 
+        These calculations must account for orbital inclination, 
+        altitude, and eccentricity of each respective mission 
+        combined with the start time and duration of each space 
+        walk. The calculations will be made in python and a final 
+        geovisualization will display an earth orbit map for these 
+        space walks.
     author:
         - Ricky Carmickle
     pid:
         - 0
     status: in progress
-    title: null
-    type: latex
+    title: How Far have Space Walks Walked 
+    type: ipynb, latex, 
     url: https://github.com/bigdata-i523/hid304/project/
