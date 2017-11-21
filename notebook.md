@@ -29,3 +29,4 @@
 
 * 10/23/17 Attended class meeting for online students
 * 11/13/17 Attended class meeting for online students
+* 11/20/17 Attended class meeting for online students
