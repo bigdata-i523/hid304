@@ -1,0 +1,2881 @@
+,Vehicle,wikipedia_name,wikipedia_url,mission_type,mission_duration,orbits_completed,spacecraft,launch_mass,landing_mass,launch_rocket,launch_site,landing_date,landing_site,orbit_epoch,orbit_reference,orbit_regime,orbit_periapsis,orbit_apoapsis,orbit_inclination,orbit_period,apsis,crew_size,crew_members
+0,Gemini IV,Gemini_4,https://en.wikipedia.org/wiki/Gemini_4," 
+"," 4&nbsp;days, 1&nbsp;hour, 56&nbsp;minutes, 12&nbsp;seconds
+"," 66 (62 revolutions)
+
+"," [[Gemini (spacecraft)|Gemini]] SC4
+"," {{convert|7880|lb|kg|disp=flip}}
+","
+
+"," {{nowrap|[[Titan II GLV]],}} {{nowrap|s/n 62-12559}}
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|June 7, 1965, 17:12:11|timezone=yes}}&nbsp;UTC
+"," North Atlantic Ocean<br/>{{coord|27|44|N|74|11|W}}
+"," June 3, 1965 <ref name=satcat />
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|165|km|nmi|sp=us}} 
+"," {{convert|289|km|nmi|sp=us}} 
+"," 32.5&nbsp;degrees
+"," 89.03&nbsp;minutes
+"," gee
+
+"," 2
+"," [[James McDivitt|James A. McDivitt]]<br/>[[Edward Higgins White|Edward H. White II]]
+"
+1,Gemini VIII,Gemini_8,https://en.wikipedia.org/wiki/Gemini_8," Docking test
+"," 10&nbsp;hours, 41&nbsp;minutes, 26&nbsp;seconds
+"," 6
+
+"," [[Gemini (spacecraft)|Gemini]] SC8
+"," {{convert|3789|kg|lb}}
+","
+
+"," {{nowrap|[[Titan II GLV]],}} {{nowrap|s/n 62-12563}}
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|March 17, 1966, 03:22:28|timezone=yes}}&nbsp;UTC
+"," {{coord|25|13.8|N|136|0|E}}
+"," March 16, 1966<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref> 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|261|km|nmi|sp=us}} 
+"," {{convert|270|km|nmi|sp=us}} 
+"," 28.9&nbsp;degrees
+"," 89.81&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Neil Armstrong|Neil A. Armstrong]]<br/>[[David Scott|David R. Scott]]
+"
+2,Gemini IX-A,Gemini_9A,https://en.wikipedia.org/wiki/Gemini_9A," 
+"," 3&nbsp;days, 20&nbsp;minutes, 50&nbsp;seconds
+"," 47
+
+"," [[Gemini (spacecraft)|Gemini]] SC9
+"," {{convert|8300|lb|kg|disp=flip}}
+","
+
+"," {{nowrap|[[Titan II GLV]],}} {{nowrap|s/n #62-12564}}
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|June 6, 1966, 14:00:23|timezone=yes}}&nbsp;UTC
+"," {{coord|27|52|N|75|0.4|W}}
+"," June 6, 1966<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 24, 2014}}</ref> 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|272|km|nmi|sp=us}}
+"," {{convert|274|km|nmi|sp=us}} 
+"," 28.8&nbsp;degrees
+"," 89.97&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Thomas P. Stafford]]<br/>[[Eugene Cernan|Eugene A. Cernan]]
+"
+3,Gemini X,Gemini_10,https://en.wikipedia.org/wiki/Gemini_10," 
+"," 2&nbsp;days, 22&nbsp;hours, 46&nbsp;minutes, 39&nbsp;seconds
+"," 43
+
+"," [[Gemini (spacecraft)|Gemini]] SC10
+"," {{convert|3762.6|kg|lb|disp=flip}}
+"," {{convert|4254|lb|kg}}
+
+"," {{nowrap|[[Titan II GLV]],}} {{nowrap|s/n #62-12565}}
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|July 21, 1966, 21:07:05|timezone=yes}}&nbsp;UTC
+"," {{coord|26|44.7|N|71|57|W|type:event|name=Gemini 10 splashdown}}
+"," July 19, 1966<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|299|km|nmi|sp=us|disp=flip}}
+"," {{convert|756|km|nmi|sp=us|disp=flip}} 
+"," 28.8&nbsp;degrees
+"," 95.19&nbsp;minutes
+"," gee
+
+"," 2
+"," [[John Young (astronaut)|John W. Young]]<br/>[[Michael Collins (astronaut)|Michael Collins]]
+"
+4,Gemini XI,Gemini_11,https://en.wikipedia.org/wiki/Gemini_11," 
+"," 2&nbsp;days, 23&nbsp;hours, 17&nbsp;minutes, 9&nbsp;seconds
+"," 44
+
+"," [[Gemini (spacecraft)|Gemini]] SC11
+"," {{convert|8374|lb|kg|disp=flip}}
+"," {{convert|4230|lb|kg|disp=flip}}
+
+"," {{nowrap|[[Titan II GLV]],}} <!--{{nowrap|s/n }}-->
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|September 15, 1966, 13:59:35|timezone=yes}}&nbsp;UTC
+"," {{Coord|24|15.4|N|70|0|W|type:event|name=Gemini 11 splashdown}}
+"," September 14, 1966<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|298|km|nmi|sp=us}}
+"," {{convert|1368|km|nmi|sp=us}}
+"," 28.8&nbsp;degrees
+"," 101.57&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Pete Conrad|Charles ""Pete"" Conrad, Jr.]]<br/>[[Richard F. Gordon Jr.]]
+"
+5,Gemini XII,Gemini_12,https://en.wikipedia.org/wiki/Gemini_12," 
+"," 3&nbsp;days, 22&nbsp;hours, 34&nbsp;minutes, 31&nbsp;seconds
+"," 59
+
+"," [[Gemini (spacecraft)|Gemini]] SC12
+"," {{convert|3762.1|kg|lb}}
+"," {{convert|4292.93|lb|kg|disp=flip}}
+
+"," [[Titan II GLV]]
+"," [[Cape Canaveral Air Force Station|Cape Kennedy]] [[Cape Canaveral Air Force Station Launch Complex 19|LC-19]]
+
+"," {{end-date|November 15, 1966, 19:21:04|timezone=yes}}&nbsp;UTC
+"," {{coord|24|35|N|69|57|W}}<ref name= ""mission""/>
+"," November 14, 1966<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|251|km|nmi|sp=us}}
+"," {{convert|289|km|nmi|sp=us}}
+"," 28.8&nbsp;degrees
+"," 89.94&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Jim Lovell|James A. Lovell, Jr]]<br/>[[Buzz Aldrin|Edwin E. Aldrin, Jr]]
+"
+6,Apollo 9,Apollo_9,https://en.wikipedia.org/wiki/Apollo_9," Lunar Module test flight
+"," 10&nbsp;days, 1&nbsp;hours, 54&nbsp;seconds
+","
+
+"," {{Unbulleted list
+  |[[Apollo Command/Service Module|Apollo CSM]]-104
+  |[[Apollo Lunar Module|Apollo LM]]-3
+}}
+"," {{convert|95231|lb|kg}}
+"," {{convert|11094|lb|kg}}
+
+"," [[Saturn V]] SA-504
+"," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+
+"," {{end-date|March 13, 1969, 17:00:54|timezone=yes}}&nbsp;UTC
+"," North Atlantic Ocean<br />{{coord|23|15|N|67|56|W|type:event|name=Apollo 9 splashdown}}
+"," March 5, 1969<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit]]
+"," {{convert|204|km|mi|sp=us}}
+"," {{convert|497|km|mi|sp=us}}
+"," 33.8&nbsp;degrees
+"," 91.55&nbsp;minutes
+"," gee
+
+"," 3
+"," {{Unbulleted list
+  |[[James McDivitt|James A. McDivitt]]
+  |[[David Scott|David R. Scott]]
+  |[[Rusty Schweickart|Russell L. Schweickart]]
+}}
+"
+7,Skylab 2,Skylab_2,https://en.wikipedia.org/wiki/Skylab_2," 
+"," 28&nbsp;days, 49&nbsp;minutes, 49&nbsp;seconds
+"," 404
+"," [[Apollo Command/Service Module|Apollo CSM]]-116
+"," {{convert|19979|kg|lb}}
+","
+
+"," [[Saturn IB]] SA-206
+"," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+
+"," {{end-date|June 22, 1973, 13:49:48|timezone=yes}}&nbsp;UTC
+"," {{coord|24|45|N|127|2|W|type:event}}
+"," June 4, 1973<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref> 
+"," [[geocentric orbit|Geocentric]]
+"," [[low Earth orbit|Low Earth]]
+"," {{convert|428|km|nmi|abbr=off|sp=us}} 
+"," {{convert|438|km|nmi|abbr=off|sp=us}} 
+"," 50.0&nbsp;degrees
+"," 93.2&nbsp;minutes 
+"," gee
+
+"," 3
+"," {{Unbulleted list
+  |[[Pete Conrad|Charles Conrad, Jr.]]
+  |[[Joseph Kerwin|Joseph P. Kerwin]]
+  |[[Paul J. Weitz]]
+}}
+"
+8,Skylab 3,Skylab_3,https://en.wikipedia.org/wiki/Skylab_3," 
+"," 59&nbsp;days, 11&nbsp;hours, 09&nbsp;minutes, 01&nbsp;seconds
+"," 858
+"," [[Apollo Command/Service Module|Apollo CSM]]-117
+"," {{convert|20121|kg|lb}}
+","
+
+"," [[Saturn IB]] SA-207
+"," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+
+"," {{end-date|September 25, 1973, 22:19:51|timezone=yes}}&nbsp;UTC 
+"," {{coord|30|47|N|120|29|W|type:event}}
+"," August 8, 1973<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref> 
+"," [[geocentric orbit|Geocentric]]
+"," [[low Earth orbit|Low Earth]]
+"," {{convert|423|km|mi|sp=us}} 
+"," {{convert|441|km|mi|sp=us}} 
+"," 50.0&nbsp;degrees
+"," 93.2&nbsp;minutes 
+"," gee
+
+"," 3
+"," {{Unbulleted list
+  |[[Alan Bean|Alan L. Bean]]
+  |[[Owen Garriott|Owen K. Garriott]]
+  |[[Jack R. Lousma]]
+}}
+"
+9,Skylab 4,Skylab_4,https://en.wikipedia.org/wiki/Skylab_4," 
+"," 84&nbsp;days, 1&nbsp;hour, 15&nbsp;minutes, 30&nbsp;seconds
+"," 1214
+"," [[Apollo Command/Service Module|Apollo CSM]]-118
+"," {{convert|20847|kg|lb}}
+","
+
+"," [[Saturn IB]] SA-208
+"," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+
+"," {{end-date|February 8, 1974, 15:16:53|timezone=yes}}&nbsp;UTC 
+"," {{coord|31|18|N|119|48|W|type:event}}
+"," January 21, 1974<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref> 
+"," [[geocentric orbit|Geocentric]]
+"," [[low Earth orbit|Low Earth]]
+"," {{convert|422|km|mi|sp=us}} 
+"," {{convert|437|km|mi|sp=us}} 
+"," 50.0&nbsp;degrees
+"," 93.11&nbsp;minutes 
+"," gee
+
+"," 3
+"," {{Unbulleted list
+  |[[Gerald P. Carr]]
+  |[[Edward Gibson|Edward G. Gibson]]
+  |[[William R. Pogue]]
+}}
+"
+10,STS-5,STS-5,https://en.wikipedia.org/wiki/STS-5," Satellite deployment
+"," 5&nbsp;days, 2&nbsp;hours, 14&nbsp;minutes, 26&nbsp;seconds
+"," 81
+"," {{OV|102}}
+"," {{convert|112088|kg}}
+"," {{convert|91841|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|16 November 1982, 14:33:26|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 13 November 1982<ref>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=20 March 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|294|km|sp=us}}
+"," {{convert|317|km|sp=us}}
+"," 28.5&nbsp;degrees
+
+"," 90.5&nbsp;minutes
+"," gee
+"," 4
+"," [[Vance D. Brand]]<br />[[Robert F. Overmyer]]<br />[[Joseph P. Allen]]<br />[[William B. Lenoir]]
+"
+11,STS-6,STS-6,https://en.wikipedia.org/wiki/STS-6," Satellite deployment
+"," 5&nbsp;days, 23&nbsp;minutes, 42&nbsp;seconds
+"," 81
+"," {{OV|099}}
+"," {{convert|116457|kg}}
+"," {{convert|86330|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|9 April 1983, 18:53:42|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+"," 6 April 1983<ref>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=20 March 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|288|km|sp=us}}
+"," {{convert|295|km|sp=us}}
+"," 28.5 degrees
+
+"," 90.4 minutes
+"," gee
+"," 4
+"," [[Paul J. Weitz]]<br />[[Karol J. Bobko]]<br />[[Story Musgrave]]<br />[[Donald H. Peterson]]
+"
+12,STS-41B,STS-41-B,https://en.wikipedia.org/wiki/STS-41-B," Satellite deployment<br>Equipment testing
+"," 7&nbsp;days, 23&nbsp;hours, 15&nbsp;minutes, 55&nbsp;seconds
+"," 128
+"," {{OV|099}}
+"," {{convert|250452|lbs|kg|disp=flip}}
+"," {{convert|201238|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|February 11, 1984, 12:15:55|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," February 5, 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|166|nmi|km|disp=flip}}
+"," {{convert|171|nmi|km|disp=flip}}
+"," 28.5 degrees
+"," 90.8 minutes
+
+"," gee
+"," 5
+"," [[Vance D. Brand]]<br />[[Robert L. Gibson]]<br />[[Bruce McCandless II]]<br />[[Robert L. Stewart]]<br />[[Ronald E. McNair]]
+"
+13,STS-41C,STS-41-C,https://en.wikipedia.org/wiki/STS-41-C," Satellite deployment<br>Satellite repair
+"," 6 days, 23 hours, 40 minutes, 7 seconds
+"," 108
+"," {{OV|099}}
+"," {{convert|254254|lbs|kg|disp=flip}}
+"," {{convert|196975|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|April 13, 1984, 13:38:07|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;17
+
+"," April 8, 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|138|mi|km|disp=flip}}
+"," {{convert|291|mi|km|disp=flip}}
+"," 28.5 degrees
+"," 91.4 min
+
+"," gee
+"," 5
+"," [[Robert Crippen|Robert L. Crippen]]<br />[[Dick Scobee|Francis R. Scobee]]<br />[[Terry Hart|Terry J. Hart]]<br />[[James van Hoften|James D. A. van Hoften]]<br />[[George Nelson (astronaut)|George D. Nelson]]
+"
+14,STS-41G,STS-41-G,https://en.wikipedia.org/wiki/STS-41-G," Satellite deployment<br />Radar imaging
+"," 8 days, 5 hours, 23 minutes, 33 seconds
+"," 133
+"," {{OV|099}}
+"," {{convert|242780|lbs|kg|disp=flip}}
+"," {{convert|202266|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|13 October 1984, 16:26:33|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 7 October 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=23 March 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|218|mi|km|disp=flip}}
+"," {{convert|243|mi|km|disp=flip}}
+"," 57.0 degrees
+
+"," 92.0 min
+"," gee
+"," 7
+"," [[Robert L. Crippen]]<br />[[Jon A. McBride]]<br />[[Kathryn D. Sullivan]]<br />[[Sally Ride|Sally K. Ride]]<br />[[David C. Leestma]]<br />[[Paul D. Scully-Power]]<br />[[Marc Garneau]]
+"
+15,STS-51A,STS-51-A,https://en.wikipedia.org/wiki/STS-51-A," Satellite deployment <br> Satellite retrieval
+"," 7 days, 23 hours, 44 minutes, 56 seconds
+"," 127
+"," {{OV|103}}
+"," {{convert|263324|lbs|kg|disp=flip}}
+"," {{convert|207505|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|November 16, 1984, 11:59:56|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway 15]]
+
+"," November 10, 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|179|nmi|km|disp=flip|sp=us}}
+"," {{convert|191|nmi|km|disp=flip|sp=us}}
+"," 28.4 degrees
+
+"," 90.4 minutes
+"," gee
+"," 5
+"," [[Frederick Hauck]]<br />[[David M. Walker (astronaut)|David M. Walker]]<br />[[Joseph P. Allen]]<br />[[Anna Lee Fisher]]<br />[[Dale Gardner]]
+"
+16,STS-51D,STS-51-A,https://en.wikipedia.org/wiki/STS-51-A," Satellite deployment <br> Satellite retrieval
+"," 7 days, 23 hours, 44 minutes, 56 seconds
+"," 127
+"," {{OV|103}}
+"," {{convert|263324|lbs|kg|disp=flip}}
+"," {{convert|207505|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|November 16, 1984, 11:59:56|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway 15]]
+
+"," November 10, 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|179|nmi|km|disp=flip|sp=us}}
+"," {{convert|191|nmi|km|disp=flip|sp=us}}
+"," 28.4 degrees
+
+"," 90.4 minutes
+"," gee
+"," 5
+"," [[Frederick Hauck]]<br />[[David M. Walker (astronaut)|David M. Walker]]<br />[[Joseph P. Allen]]<br />[[Anna Lee Fisher]]<br />[[Dale Gardner]]
+"
+17,STS-51I,STS-51-I,https://en.wikipedia.org/wiki/STS-51-I," Satellite deployment <br> Satellite repair
+"," 7 days, 2 hours, 17 minutes, 42 seconds
+"," 112
+"," {{OV|103}}
+"," {{convert|262309|lbs|kg|disp=flip}}
+"," {{convert|196674|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|September 3, 1985, 13:15:43|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;23
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|220|mi|km|disp=flip}}
+"," {{convert|289|mi|km|disp=flip}}
+"," 28.45 degrees
+
+"," 92 min
+"," gee
+"," 5
+"," [[Joe H. Engle]]<br/>[[Richard O. Covey]]<br/>[[James D. A. van Hoften]]<br/>[[John M. Lounge]]<br/>[[William F. Fisher]]
+"
+18,STS-61B,STS-61-B,https://en.wikipedia.org/wiki/STS-61-B," Satellite deployment<br>Technology
+"," 6 days, 21 hours, 4 minutes, 49 seconds
+"," 109
+"," {{OV|104}}
+"," {{convert|118664|kg}}
+"," {{convert|93316|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|3 December 1985, 21:33:49|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|361|km}}
+"," {{convert|370|km}}
+"," 28.5 degrees
+
+"," 91.9 min
+"," gee
+"," 7
+"," [[Brewster H. Shaw, Jr.]]<br/>[[Bryan D. O'Connor]]<br/>[[Jerry L. Ross]]<br/>[[Mary L. Cleave]]<br/>[[Sherwood C. Spring]]<br/>[[Charles D. Walker]]<br/>[[Rodolfo Neri Vela]]
+"
+19,STS-31,STS-31,https://en.wikipedia.org/wiki/STS-31," Satellite deployment
+"," 5&nbsp;days, 1&nbsp;hour, 16&nbsp;minutes, 6&nbsp;seconds
+"," 80
+"," {{OV|103}}
+"," {{convert|117586|kg}}
+"," {{convert|85947|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|29 April 1990, 13:49:57|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|585|km}}
+"," {{convert|615|km}}
+"," 28.45 degrees
+
+"," 96.7 minutes
+"," gee
+"," 5
+"," [[Loren J. Shriver]]<br />[[Charles F. Bolden, Jr.]]<br />[[Bruce McCandless II]]<br />[[Steven A. Hawley]]<br />[[Kathryn D. Sullivan]]
+"
+20,STS-37,STS-37,https://en.wikipedia.org/wiki/STS-37," Satellite deployment
+"," 5&nbsp;days, 23&nbsp;hours, 32&nbsp;minutes, 44&nbsp;seconds
+"," 93
+"," {{OV|104}}
+"," 
+"," {{convert|86651|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|11 April 1991, 13:55:29|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;33
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|450|km}}
+"," {{convert|462|km}}
+"," 28.45 degrees
+
+"," 93.7 minutes
+"," gee
+"," 5
+"," [[Steven R. Nagel]]<br/>[[Kenneth D. Cameron]]<br/>[[Linda M. Godwin]]<br/>[[Jerry L. Ross]]<br/>[[Jay Apt]]
+"
+21,STS-49,STS-49,https://en.wikipedia.org/wiki/STS-49," Satellite repair
+"," 8&nbsp;days, 21&nbsp;hours, 17&nbsp;minutes, 38&nbsp;seconds
+"," 141
+"," {{OV|105}}
+"," 
+"," {{convert|91214|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|16 May 1992, 22:57:38|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|268|km}}
+"," {{convert|341|km}}
+"," 28.35 degrees
+
+"," 90.6 min
+"," gee
+"," 7
+"," [[Daniel C. Brandenstein]]<br/>[[Kevin P. Chilton]]<br/>[[Richard J. Hieb]]<br/>[[Bruce E. Melnick]]<br/>[[Pierre J. Thuot]]<br/>[[Kathryn C. Thornton]]<br/>[[Thomas D. Akers]]
+"
+22,STS-54,STS-54,https://en.wikipedia.org/wiki/STS-54," Satellite deployment<br/>Technology
+"," 5&nbsp;days, 23&nbsp;hours, 38&nbsp;minutes, 19&nbsp;seconds
+"," 96
+"," {{OV|105}}
+"," 
+"," {{convert|92988|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|19 January 1993, 13:37:47|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|302|km}}
+"," {{convert|309|km}}
+"," 28.45 degrees
+
+"," 90.6 min
+"," gee
+"," 5
+"," [[John H. Casper]]<br/>[[Donald R. McMonagle]]<br/>[[Mario Runco, Jr.]]<br/>[[Gregory J. Harbaugh]]<br/>[[Susan Helms|Susan J. Helms]]
+"
+23,STS-57,STS-57,https://en.wikipedia.org/wiki/STS-57," Biosciences<br/>Satellite retrieval
+"," 9&nbsp;days, 23&nbsp;hours, 44&nbsp;minutes, 54&nbsp;seconds
+"," 155
+"," {{OV|105}}
+"," 
+"," {{convert|101657|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|1 July 1993, 12:52|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|402|km}}
+"," {{convert|471|km}}
+"," 28.45 degrees
+
+"," 93.3 min
+"," gee
+"," 6
+"," [[Ronald J. Grabe]]<br/>[[Brian Duffy (astronaut)|Brian Duffy]]<br/>[[G. David Low]]<br/>[[Nancy J. Currie|Nancy J. Sherlock]]<br/>[[Peter J. Wisoff]]<br/>[[Janice E. Voss]]
+"
+24,STS-51 ,STS-51-A,https://en.wikipedia.org/wiki/STS-51-A," Satellite deployment <br> Satellite retrieval
+"," 7 days, 23 hours, 44 minutes, 56 seconds
+"," 127
+"," {{OV|103}}
+"," {{convert|263324|lbs|kg|disp=flip}}
+"," {{convert|207505|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|November 16, 1984, 11:59:56|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway 15]]
+
+"," November 10, 1984<ref name=satcat>{{cite web|last=McDowell|first=Jonathan|title=SATCAT|url=http://planet4589.org/space/log/satcat.txt|publisher=Jonathan's Space Pages|accessdate=March 23, 2014}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|179|nmi|km|disp=flip|sp=us}}
+"," {{convert|191|nmi|km|disp=flip|sp=us}}
+"," 28.4 degrees
+
+"," 90.4 minutes
+"," gee
+"," 5
+"," [[Frederick Hauck]]<br />[[David M. Walker (astronaut)|David M. Walker]]<br />[[Joseph P. Allen]]<br />[[Anna Lee Fisher]]<br />[[Dale Gardner]]
+"
+25,STS-61,STS-61,https://en.wikipedia.org/wiki/STS-61," Hubble servicing
+"," 10&nbsp;days, 19&nbsp;hours, 58&nbsp;minutes, 37&nbsp;seconds
+"," 163
+"," {{OV|105}}
+"," 
+"," {{convert|94972|kg|lb|abbr=on}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|13 December 1993, 05:25:33|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|291|km}}
+"," {{convert|576|km}}
+"," 28.45 degrees
+
+"," 93.3 min
+"," gee
+"," 7
+"," [[Richard O. Covey]]<br/>[[Kenneth D. Bowersox]]<br/>[[Kathryn C. Thornton]]<br/>[[Claude Nicollier]]<br/>[[Jeffrey A. Hoffman]]<br/>[[F. Story Musgrave]]<br/>[[Thomas D. Akers]]
+"
+26,STS-64 ,STS-64,https://en.wikipedia.org/wiki/STS-64," Research<br/>Technology
+"," 10&nbsp;days, 22&nbsp;hours, 49&nbsp;minutes, 57&nbsp;seconds
+"," 176
+"," {{OV|103}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|20 September 1994, 21:12:52|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;4
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|259|km}}
+"," {{convert|269|km}}
+"," 56.9 degrees
+
+"," 89.5 min
+"," gee
+"," 6
+"," [[Richard N. Richards]]<br/>[[L. Blaine Hammond, Jr.]]<br/>[[Jerry M. Linenger]]<br/>[[Susan Helms|Susan J. Helms]]<br/>[[Carl J. Meade]]<br/>[[Mark C. Lee]]
+"
+27,STS-63,STS-63,https://en.wikipedia.org/wiki/STS-63," Research<br/>[[Mir]] rendezvous
+"," 8&nbsp;days, 6&nbsp;hours, 28&nbsp;minutes, 15&nbsp;seconds
+"," 129
+"," {{OV|103}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|11 February 1995, 11:50:19|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|275|km}}
+"," {{convert|342|km}}
+"," 51.6 degrees
+
+"," 92.3 minutes
+"," gee
+"," 6
+"," [[James D. Wetherbee]]<br/>[[Eileen Collins]]<br/>[[Bernard A. Harris, Jr.]]<br/>[[Michael Foale]]<br/>[[Janice E. Voss]]<br/>[[Vladimir G. Titov]]
+"
+28,STS-69,STS-69,https://en.wikipedia.org/wiki/STS-69," Research
+"," 10&nbsp;days, 20&nbsp;hours, 29&nbsp;minutes, 56&nbsp;seconds
+"," 171
+"," {{OV|105}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|18 September 1995, 11:38:56|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|321|km}}
+"," {{convert|321|km}}
+"," 28.4 degrees
+
+"," 91.4 min
+"," gee
+"," 5
+"," [[David M. Walker (astronaut)|David M. Walker]]<br/>[[Kenneth Cockrell]]<br/>[[James S. Voss]]<br/>[[James H. Newman]]<br/>[[Michael L. Gernhardt]]
+"
+29,STS-72,STS-72,https://en.wikipedia.org/wiki/STS-72," Satellite retrieval<br/>Research
+"," 8&nbsp;days, 22&nbsp;hours, 01&nbsp;minutes, 47&nbsp;seconds
+"," 142
+"," {{OV|105}}
+"," {{convert|112182|kg}}
+"," {{convert|98549|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|20 January 1996, 07:41:41|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|185|km}}
+"," {{convert|470|km}}
+"," 28.45 degrees
+
+"," 91.1 min
+"," gee
+"," 6
+"," [[Brian Duffy (astronaut)|Brian Duffy]]<br/>[[Brent W. Jett]]<br/>[[Leroy Chiao]]<br/>[[Winston E. Scott]]<br/>[[Koichi Wakata]]<br/>[[Daniel T. Barry]]
+"
+30,STS-76,STS-76,https://en.wikipedia.org/wiki/STS-76," [[Shuttle-Mir program|Shuttle-Mir]]
+"," 9&nbsp;days, 5&nbsp;hours, 16&nbsp;minutes, 48&nbsp;seconds
+"," 145
+"," {{OV|104}}
+"," {{convert|111740|kg}}
+"," {{convert|95396|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|31 March 1996, 13:28:57|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|389|km}}
+"," {{convert|411|km}}
+"," 51.6 degrees
+
+"," 92.5 min
+"," gee
+"," 6 up<br/>5 down
+"," [[Kevin P. Chilton]]<br/>[[Richard A. Searfoss]]<br/>[[Ronald M. Sega]]<br/>[[Michael R. Clifford]]<br/>[[Linda M. Godwin]]
+"
+31,STS-80,STS-80,https://en.wikipedia.org/wiki/STS-80," Research
+"," 17 days, 15 hours, 53 minutes, 18 seconds
+"," 279
+"," {{OV|102}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|7 December 1996, 11:49:05|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF (Rwy 33)]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|318|km}}
+"," {{convert|375|km}}
+"," 28.45 degrees
+
+"," 91.5 min
+"," gee
+"," 5
+"," [[Kenneth D. Cockrell]]<br/>[[Kent Rominger]]<br/>[[Story Musgrave]]<br/>[[Thomas David Jones]]<br/>[[Tamara E. Jernigan]]
+"
+32,STS-82,STS-82,https://en.wikipedia.org/wiki/STS-82," [[Hubble Space Telescope|Hubble]] servicing
+"," 9 days, 23 hours, 38 minutes, 09 seconds
+"," 149
+"," {{OV|103}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|21 February 1997, 08:32|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|475|km}}
+"," {{convert|574|km}}
+"," 28.4698 degrees
+
+"," 95.2 min
+"," gee
+"," 7
+"," [[Kenneth D. Bowersox]]<br/>[[Scott J. Horowitz]]<br/>[[Joseph R. Tanner]]<br/>[[Steven A. Hawley]]<br/>[[Gregory J. Harbaugh]]<br/>[[Mark C. Lee]]<br/>[[Steven L. Smith]]
+"
+33,STS-86,STS-86,https://en.wikipedia.org/wiki/STS-86," [[Shuttle-Mir program|Shuttle-Mir]]
+"," 10 days, 19 hours, 22 minutes, 12 seconds
+"," 170
+"," {{OV|104}}
+"," 
+"," {{convert|114185|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|6 October 1997, 21:55|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|354|km}}
+"," {{convert|381|km}}
+"," 51.6 degrees
+
+"," 91.9 min
+"," gee
+"," 7
+"," [[James D. Wetherbee]]<br/>[[Michael J. Bloomfield]]<br/>[[Vladimir G. Titov]]<br/>[[Scott E. Parazynski]]<br/>[[Jean-Loup Chrétien]]<br/>[[Wendy B. Lawrence]]
+"
+34,STS-87,STS-87,https://en.wikipedia.org/wiki/STS-87," Microgravity research<br/>Technology development
+"," 15 days, 16 hours, 35 minutes, 01 seconds
+"," 
+"," {{OV|102}}
+"," 
+"," {{convert|102717|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|5 December 1997, 12:20|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|273|km}}
+"," {{convert|279|km}}
+"," 28.45 degrees
+
+"," 90.0 min
+"," gee
+"," 6
+"," [[Kevin R. Kregel]]<br/>[[Steven W. Lindsey]]<br/>[[Winston E. Scott]]<br/>[[Kalpana Chawla]]<br/>[[Takao Doi]]<br/>[[Leonid Kadeniuk|Leonid Kadenyuk]]
+"
+35,STS-88,STS-88,https://en.wikipedia.org/wiki/STS-88," [[International Space Station|ISS]] assembly
+"," 11 days, 19 hours, 18 minutes, 47 seconds.
+"," 185
+"," {{OV|105}}
+"," {{convert|263927|lbs|kg|disp=flip}}
+"," {{convert|200296|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|16 December 1998, 03:53|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|241|mi|km|disp=flip}}
+"," {{convert|249|mi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 92.4 minutes
+"," gee
+"," 6
+"," [[Robert D. Cabana]]<br/>[[Frederick W. Sturckow]]<br/>[[Jerry L. Ross]]<br/>[[Nancy J. Currie]]<br/>[[James H. Newman]]<br/>[[Sergei K. Krikalev]]
+"
+36,STS-96,STS-96,https://en.wikipedia.org/wiki/STS-96," [[International Space Station|ISS]] assembly<br/>ISS logistics
+"," 9 days, 19 hours, 13 minutes, 57 seconds
+"," 
+"," {{OV|103}}
+"," {{convert|262035|lbs|kg|disp=flip}}
+"," {{convert|220980|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|6 June 1999, 02:02:43|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|326|km}}
+"," {{convert|340|km}}
+"," 51.6 degrees
+
+"," 91.2 min
+"," gee
+"," 7
+"," [[Kent V. Rominger]]<br/>[[Rick Husband|Rick D. Husband]]<br/>[[Daniel T. Barry]]<br/>[[Ellen Ochoa]]<br/>[[Tamara E. Jernigan]]<br/>[[Julie Payette]]<br/>[[Valery Tokarev|Valery I. Tokarev]]
+"
+37,STS-103,STS-103,https://en.wikipedia.org/wiki/STS-103," [[Hubble Space Telescope|HST]] servicing
+"," 7 days, 23 hours, 11 minutes 34 seconds
+",NaN," {{OV|103}}
+"," {{convert|112493|kg}}
+"," {{convert|95768|kg}}
+
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|28 December 1999 00:01:34|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Faciltiy|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|563|km}}
+"," {{convert|609|km}}
+"," 28.45 degrees
+
+"," 96.4 minutes
+"," gee
+"," 7
+"," [[Curtis Brown|Curtis L. Brown, Jr.]]<br/>[[Scott Kelly (astronaut)|Scott J. Kelly]]<br/>[[John M. Grunsfeld]]<br/>[[Jean-François Clervoy]]<br/>[[Michael Foale|C. Michael Foale]]<br/>[[Steven Smith (astronaut)|Steven L. Smith]]<br/>[[Claude Nicollier]]
+"
+38,STS-101,STS-101,https://en.wikipedia.org/wiki/STS-101," ISS assembly/logistics
+"," 9&nbsp;days, 21&nbsp;hours, 10&nbsp;minutes, 10&nbsp;seconds
+"," 155
+"," {{OV|104}}
+",NaN," {{convert|100369|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|29 May 2000, 06:20|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 21 May 2000
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|319|km}}<ref name=""JSR-SC""/>
+"," {{convert|332|km}}<ref name=""JSR-SC"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=6 May 2013}}</ref>
+"," 51.5&nbsp;degrees<ref name=""JSR-SC""/>
+
+"," 91.04&nbsp;minutes<ref name=""JSR-SC""/>
+"," gee
+"," 7
+"," [[James D. Halsell, Jr.]]<br/>[[Scott J. Horowitz]]<br/>[[Mary E. Weber]]<br/>[[Jeffrey N. Williams]]<br/>[[James S. Voss]]<br/>[[Susan Helms|Susan J. Helms]]<br/>[[Yury V. Usachev]]
+"
+39,STS-106,STS-106,https://en.wikipedia.org/wiki/STS-106," ISS assembly
+"," 11&nbsp;days, 19&nbsp;hours, 12&nbsp;minutes, 15&nbsp;seconds
+"," 185
+"," {{OV|104}}
+"," {{convert|115259|kg}}
+"," {{convert|100369|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|19 September 2000, 07:56|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|375|km}}
+"," {{convert|386|km}}
+"," 51.6 degrees
+
+"," 92.2 minutes
+"," gee
+"," 7
+"," [[Terrence W. Wilcutt]]<br>[[Scott D. Altman]]<br>[[Edward T. Lu]]<br>[[Richard A. Mastracchio]]<br>[[Daniel C. Burbank]]<br>[[Yuri Malenchenko]]<br>[[Boris Morukov]]
+"
+40,STS-92,STS-92,https://en.wikipedia.org/wiki/STS-92," ISS assembly
+"," 12 days, 21 hours, 43 minutes, 47 seconds
+"," 
+"," {{OV|103}}
+"," {{convert|115127|kg}}
+"," {{convert|92741|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|24 October 2000, 20:59:47|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]], Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|386|km}}
+"," {{convert|394|km}}
+"," 51.60 degrees
+
+"," 92.3 min
+"," gee
+"," 7
+"," [[Brian Duffy (astronaut)|Brian Duffy]]<br/>[[Pamela A. Melroy]]<br/>[[Koichi Wakata]]<br/>[[William S. McArthur]]<br/>[[Peter J.K. Wisoff]]<br/>[[Michael López-Alegría|Michael E. López-Alegría]]<br/>[[Leroy Chiao]]
+"
+41,STS-97,STS-97,https://en.wikipedia.org/wiki/STS-97," ISS assembly
+"," 10 days, 19 hours, 58 minutes, 20 seconds
+"," 
+"," {{OV|105}}
+"," {{convert|120742|kg}}
+"," {{convert|89758|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|11 December 2000, 23:04|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|352|km}}
+"," {{convert|365|km}}
+"," 51.6 degrees
+
+"," 91.7 min
+"," gee
+"," 5
+"," [[Brent W. Jett]]<br/>[[Michael J. Bloomfield]]<br/>[[Joseph R. Tanner]]<br/>[[Marc Garneau]]<br/>[[Carlos I. Noriega]]
+"
+42,STS-98,STS-98,https://en.wikipedia.org/wiki/STS-98," ISS assembly
+"," 12 days, 21 hours, 21 minutes, 0 seconds
+"," 171
+"," {{OV|104}}
+"," {{convert|115529|kg|lbs}}
+"," {{convert|90225|kg|lbs}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|20 February 2001, 20:33|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|365|km|nmi|sp=us}}
+"," {{convert|378|km|nmi|sp=us}}
+"," 51.6 degrees
+
+"," 92 minutes
+"," gee
+"," 5
+"," [[Kenneth D. Cockrell]]<br/>[[Mark L. Polansky]]<br/>[[Robert L. Curbeam]]<br/>[[Marsha Ivins|Marsha S. Ivins]]<br/>[[Thomas D. Jones]]
+"
+43,STS-102,STS-102,https://en.wikipedia.org/wiki/STS-102," {{nowrap|ISS crew rotation}}
+"," 12&nbsp;days, 19&nbsp;hours, 51&nbsp;minutes, 57&nbsp;seconds
+",NaN," {{OV|103}}
+"," {{convert|99503|kg}}
+"," {{convert|90043|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|21 March 2001, 07:33:06|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|370|km}}
+"," {{convert|381|km}}
+"," 51.5 degrees
+
+"," 92.1 minutes
+"," gee
+"," 7
+"," [[James D. Wetherbee]]<br/>[[James M. Kelly (astronaut)|James M. Kelly]]<br/>[[Andrew S. W. Thomas]]<br/>[[Paul W. Richards]]
+"
+44,STS-100,STS-100,https://en.wikipedia.org/wiki/STS-100," ISS assembly/logistics
+"," 11&nbsp;days, 21&nbsp;hours, 31&nbsp;minutes, 14&nbsp;seconds
+",NaN," {{OV|105}}
+
+"," {{convert|103506|kg}}
+"," {{convert|99742|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|1 May 2001, 16:11:56|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway 22<ref>{{cite web|url=http://www.astronautix.com/flights/sts100.htm|first=Mark|last=Wade|accessdate=6 May 2013|title=STS-100|work=Encyclopedia Astronautica}}</ref>
+
+"," 21 April 2001
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|331|km}}<ref name=""JSR-SC""/>
+"," {{convert|375|km}}<ref name=""JSR-SC"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=6 May 2013}}</ref>
+"," 51.5 deg<ref name=""JSR-SC""/>
+
+"," 91.59 minutes<ref name=""JSR-SC""/>
+"," gee
+"," 7 
+","[[Kent V. Rominger]]<br/>[[Jeffrey S. Ashby]]<br/>[[Chris Hadfield]]<br/>[[John L. Phillips]]<br/>[[Scott E. Parazynski]]<br/>[[Umberto Guidoni]]<br/>[[Yuri Lonchakov]]
+"
+45,STS-104,STS-104,https://en.wikipedia.org/wiki/STS-104," ISS assembly
+"," 12&nbsp;days, 18&nbsp;hours, 36&nbsp;minutes, 39&nbsp;seconds
+"," 200
+"," {{OV|104}}
+"," {{convert|117129|kg}}
+"," {{convert|94009|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|25 July 2001, 03:38|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|372|km}}
+"," {{convert|390|km}}
+"," 51.6 degrees
+
+"," 92.2 minutes
+"," gee
+"," 5
+"," [[Steven W. Lindsey]]<br/>[[Charles O. Hobaugh]]<br/>[[Michael L. Gernhardt]]<br/>[[Janet L. Kavandi]]<br/>[[James F. Reilly]]
+"
+46,STS-105,STS-105,https://en.wikipedia.org/wiki/STS-105," ISS crew rotation
+"," 11&nbsp;days, 21&nbsp;hours, 13&nbsp;minutes, 52&nbsp;seconds
+"," 
+"," {{OV|103}}
+"," {{convert|116914|kg}} 
+"," {{convert|100824|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|22 August 2001, 18:23|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|373|km}}
+"," {{convert|402|km}}
+"," 51.6 degrees
+
+"," 92.3 minutes
+"," gee
+"," 7
+"," [[Scott J. Horowitz]]<br/>[[Frederick W. Sturckow]]<br/>[[Patrick G. Forrester]]<br/>[[Daniel T. Barry]] 
+"
+47,STS-108,STS-108,https://en.wikipedia.org/wiki/STS-108," ISS crew rotation
+"," 11&nbsp;days, 19&nbsp;hours, 36&nbsp;minutes, 45&nbsp;seconds
+",NaN," {{OV|105}}
+"," 
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|17 December 2001 17:56:13|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|353|km}}
+"," {{convert|377|km}}
+"," 51.6 degrees
+"," 92 minutes
+"," gee
+"," 7
+"," [[Dominic L. Pudwill Gorie]]<br/>[[Mark Kelly (astronaut)|Mark E. Kelly]]<br/>[[Linda M. Godwin]]<br/>[[Daniel M. Tani]]
+"
+48,Expedition 4,Expedition_4,https://en.wikipedia.org/wiki/Expedition_4," ISS Expedition
+"," 190&nbsp;days, 5&nbsp;hours, 31&nbsp;minutes (at ISS)<br/><small>195&nbsp;days, 11&nbsp;hours, 38&nbsp;minutes, 13&nbsp;seconds (launch to landing)</small>
+"," 3,068
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Yury Onufrienko]]<br/>[[Daniel W. Bursch]]<br/>[[Carl E. Walz]]
+"
+49,STS-109,STS-109,https://en.wikipedia.org/wiki/STS-109," Hubble servicing
+"," 10&nbsp;days, 22&nbsp;hours, 11&nbsp;minutes, 09&nbsp;seconds
+"," 165
+"," {{OV|102}}
+"," {{convert|116989|kg|lb|abbr=on}}
+"," {{convert|100564|kg|lb|abbr=on}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|12 March 2002 09:33:10|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|486|km|mi|abbr=on}}
+"," {{convert|578|km|mi|abbr=on}}
+"," 28.5 degrees
+
+"," 95.3 minutes
+"," gee
+"," 7
+"," [[Scott D. Altman]]<br/>[[Duane G. Carey]]<br/>[[John M. Grunsfeld]]<br/>[[Nancy J. Currie]]<br/>[[Richard M. Linnehan]]<br/>[[James H. Newman]]<br/>[[Michael J. Massimino]]
+"
+50,STS-110,STS-110,https://en.wikipedia.org/wiki/STS-110," ISS assembly
+"," 10&nbsp;days, 19&nbsp;hours, 43&nbsp;minutes, 38&nbsp;seconds
+"," 171
+"," {{OV|104}}
+"," {{convert|257079|lb|kg|order=flip}}<ref name=STS-110-Press-Kit>[https://web.archive.org/web/20051030030928/http://www.shuttlepresskit.com/STS-110/spk-110.pdf] ""STS-110 Press Kit"" (archived from Shuttlepresskit.com)</ref>
+"," {{convert|200657|lb|kg|order=flip}}<ref name=STS-110-Press-Kit />
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|19 April 2002 16:26:57|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|155|km}}
+"," {{convert|225|km}}
+"," 51.6 degrees
+
+"," 88.3 minutes
+"," gee
+"," 7
+"," [[Michael J. Bloomfield]]<br/>[[Stephen Frick|Stephen N. Frick]]<br/>[[Rex J. Walheim]]<br/>[[Ellen Ochoa|Ellen L. Ochoa]]<br/>[[Lee Morin|Lee M. E. Morin]]<br/>[[Jerry L. Ross]]<br/>[[Steven Smith (astronaut)|Steven L. Smith]]
+"
+51,STS-111,STS-111,https://en.wikipedia.org/wiki/STS-111," ISS logistics<br/>Crew rotation
+"," 13&nbsp;days, 20&nbsp;hours, 35&nbsp;minutes, 56&nbsp;seconds
+"," 
+"," {{OV|105}}
+"," {{convert|116523|kg}}
+"," {{convert|99385|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|19 June 2002 17:58:45|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|349|km}}
+"," {{convert|387|km}}
+"," 51.6 degrees
+
+"," 91.9 minutes
+"," gee
+"," 7
+"," [[Kenneth D. Cockrell]]<br/>[[Paul S. Lockhart]]<br/>[[Philippe Perrin]]<br/>[[Franklin Chang-Diaz]]
+"
+52,STS-112,STS-112,https://en.wikipedia.org/wiki/STS-112," ISS assembly
+"," 10&nbsp;days, 19&nbsp;hours, 58&nbsp;minutes, 44&nbsp;seconds
+"," 170
+"," {{OV|104}}
+"," {{convert|116538|kg}}
+"," {{convert|91390|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|18 October 2002, 15:44:35|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|273|km}}
+"," {{convert|405|km}}
+"," 51.6 degrees
+
+"," 91.2 minutes
+"," gee
+"," 6
+"," [[Jeffrey S. Ashby]]<br/>[[Pamela A. Melroy]]<br/>[[Piers Sellers]]<br/>[[Sandra H. Magnus]]<br/>[[David A. Wolf]]<br/>[[Fyodor N. Yurchikhin]]
+"
+53,STS-113,STS-113,https://en.wikipedia.org/wiki/STS-113," ISS assembly<br/>Crew rotation
+"," 13&nbsp;days, 18&nbsp;hours, 48&nbsp;minutes, 38&nbsp;seconds
+"," 
+"," {{OV|105}}
+"," {{convert|116460|kg}}
+"," {{convert|91498|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|7 December 2002, 19:38:25|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|379|km}}
+"," {{convert|397|km}}
+"," 51.6 degrees
+
+"," 92.3 min
+"," gee
+"," 7
+"," [[James D. Wetherbee]]<br/>[[Paul S. Lockhart]]<br/>[[Michael López-Alegría]]<br/>[[John B. Herrington]]
+"
+54,Expedition 6,Expedition_6,https://en.wikipedia.org/wiki/Expedition_6," ISS Expedition
+"," 159&nbsp;days, 44&nbsp;minutes (at ISS)<br/><small>161&nbsp;days, 1&nbsp;hour, 14&nbsp;minutes, 38&nbsp;seconds (launch to landing)</small>
+"," 2,536
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Kenneth Bowersox]]<br/>[[Nikolai Budarin]]<br/>[[Donald Pettit]]
+"
+55,STS-114,STS-114,https://en.wikipedia.org/wiki/STS-114," ISS logistics
+"," 13&nbsp;days, 21&nbsp;hours, 32&nbsp;minutes, 48&nbsp;seconds
+"," 219
+"," {{OV|103}}
+"," {{convert|121483|kg}}
+"," {{convert|102913|kg}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|9 August 2005, 12:11:22|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 31 July 2005<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=28 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|350|km}}<ref name=""SATCAT""/>
+"," {{convert|355|km}}<ref name=""SATCAT""/>
+"," 51.6 degrees<ref name=""SATCAT""/>
+
+"," 91.59 minutes<ref name=""SATCAT""/>
+"," gee
+"," 7
+"," [[Eileen Collins]]<br/>[[James M. Kelly (astronaut)|James M. Kelly]]<br/>[[Soichi Noguchi]]<br/>[[Stephen K. Robinson]]<br/>[[Andy Thomas|Andrew S. W. Thomas]]<br/>[[Wendy B. Lawrence]]<br/>[[Charles Camarda|Charles J. Camarda]]
+"
+56,Expedition 12,Expedition_12,https://en.wikipedia.org/wiki/Expedition_12," ISS Expedition
+"," 187&nbsp;days, 14&nbsp;hours, 1&nbsp;minute (at ISS)<br/><small>189&nbsp;days, 19&nbsp;hours, 53&nbsp;minutes (launch to landing)</small>
+"," 2,987
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[William S. McArthur]]<br/>[[Valery Ivanovich Tokarev]]
+"
+57,STS-121 ,STS-121,https://en.wikipedia.org/wiki/STS-121," ISS logistics
+"," 12&nbsp;days, 18&nbsp;hours, 37&nbsp;minutes, 54&nbsp;seconds
+"," 202
+"," {{OV|103}}
+"," {{convert|121092|kg}}
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|17 July 2006, 13:14:43|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|352.8|km}}
+"," {{convert|354.2|km}}
+"," 51.6 degrees
+
+"," 91.6 minutes
+"," gee
+"," 7 up<br/>6 down
+"," [[Steven Lindsey|Steven W. Lindsey]]<br/>[[Mark Kelly (astronaut)|Mark E. Kelly]]<br/>[[Michael E. Fossum]]<br/>[[Lisa Nowak|Lisa M. Nowak]]<br/>[[Stephanie Wilson|Stephanie D. Wilson]]<br/>[[Piers Sellers|Piers J. Sellers]]
+"
+58,Expedition 13,Expedition_13,https://en.wikipedia.org/wiki/Expedition_13," ISS Expedition
+"," 180&nbsp;days, 17&nbsp;hours, 34&nbsp;minutes (at ISS)<br/><small>182&nbsp;days, 23&nbsp;hours, 44&nbsp;minutes (launch to landing)</small>
+"," 2,886
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2<br/>3 (from July)
+"," [[Pavel Vinogradov]]<br/>[[Jeffrey Williams (astronaut)|Jeffrey Williams]]<br/>[[Thomas Reiter]]* (from July)<br/><small>* - Transferred to Expedition 14</small>
+"
+59,STS-115,STS-115,https://en.wikipedia.org/wiki/STS-115," ISS assembly
+"," 11&nbsp;days, 19&nbsp;hours, 6&nbsp;minutes, 35&nbsp;seconds
+"," 187
+"," {{OV|104}}
+"," 2,000&nbsp;tonnes (4,400,000&nbsp;lb)<!-- Overheard on NASA Television at approximately 11:05 UTC on 2006-09-09 -->
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|21 September 2006, 10:21:30|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|157.4|km}}<ref name=""ql"">{{cite web|url=http://www.spaceflightnow.com/shuttle/sts115/fdf/sts115quicklook1.html|title=STS-115 Quick-Look Mission Data|accessdate=30 October 2007|publisher=Spaceflight Now|year=2006|author=William Harwood for [[CBS]] News}}</ref>
+"," {{convert|226.6|km}}
+"," 51.6 degrees
+
+"," 91.6 minutes
+"," gee
+"," 6
+"," [[Brent W. Jett, Jr.]]<br/>[[Christopher Ferguson|Chris Ferguson]]<br/>[[Steven MacLean (astronaut)|Steven G. MacLean]]<br/>[[Daniel C. Burbank]]<br/>[[Joseph R. Tanner]]<br/>[[Heidemarie M. Stefanyshyn-Piper]]
+"
+60,STS-116,STS-116,https://en.wikipedia.org/wiki/STS-116," ISS assembly
+"," 12&nbsp;days, 20&nbsp;hours, 44&nbsp;minutes, 16&nbsp;seconds
+"," 
+"," {{OV|103}}
+"," {{convert|265466|lb|kg|disp=flip}}<ref name=STS116-PK>{{cite web|title=STS-116 Press Kit|url=http://www.nasa.gov/pdf/162182main_STS-116_Press_Kit.pdf|publisher=NASA|accessdate=16 August 2015}}</ref>
+"," {{convert|225350|lb|kg|disp=flip}}<ref name=STS116-PK />
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39B]]
+"," {{end-date|22 December 2006, 22:32:00|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 12 December 2006<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=28 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," 326<ref name=""SATCAT""/>
+"," 358<ref name=""SATCAT""/>
+"," 51.6 degrees<ref name=""SATCAT""/><ref name=""sfn-facts"">{{cite web|last=Harwood|first=William|date=8 December 2006|url=http://www.spaceflightnow.com/shuttle/sts116/fdf/116quicklook1.html|title=Quick-Look Mission Facts and Figures|work=Spaceflight Now}}</ref>
+
+"," 91.37 minutes<ref name=""SATCAT""/>
+"," gee
+"," 7
+"," [[Mark L. Polansky]]<br/>[[William Oefelein|William A. Oefelein]]<br/>[[Nicholas Patrick|Nicholas J. M. Patrick]]<br/>[[Robert L. Curbeam, Jr.]]<br/>[[Christer Fuglesang]]<br/>[[Joan E. Higginbotham]]
+"
+61,Expedition 14,Expedition_14,https://en.wikipedia.org/wiki/Expedition_14," ISS Expedition
+"," 7&nbsp;months, 3&nbsp;days (at ISS)<br/><small>215&nbsp;days 8&nbsp;hours (López-Alegría/Tyurin) (launch to landing)</small>
+"," 3,401 (López-Alegría/Tyurin)
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Michael López-Alegría]]<br/>[[Mikhail Tyurin]]<br/>[[Thomas Reiter]]* (until December)<br/>[[Sunita Williams]]† (from December)<br/><small>* - transferred from Expedition 13<br/>† - transferred to Expedition 15</small>
+"
+62,Expedition 16,Expedition_16,https://en.wikipedia.org/wiki/Expedition_16," ISS Expedition
+"," <!-- (at ISS)<br/>--><small>192&nbsp;days (launch to landing)</small>
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Peggy Whitson]]<br/>[[Yuri Malenchenko]]<br/>[[Clayton Anderson]]* (October)<br/>[[Daniel M. Tani|Daniel Tani]] (October–February)<br/>[[Léopold Eyharts]] (February–March)<br/>[[Garrett Reisman]]† (March–April)<br/><small>* - transferred from Expedition 15<br/>† - transferred to Expedition 17</small>
+"
+63,STS-117,STS-117,https://en.wikipedia.org/wiki/STS-117," ISS assembly
+"," 13 days, 20 hours, 12 minutes, 44 seconds
+"," 219
+"," {{OV|104}}
+"," {{convert|4525471|lbs|kg|disp=flip}} (total)<ref name=""Press Kit"">{{cite web|url=http://www.nasa.gov/pdf/169479main_PressKit_117.pdf|title= STS-117 – Building on Experience|author=NASA|accessdate=7 August 2010}}</ref><br/>{{convert|270469|lbs|kg|disp=flip}} (orbiter)
+"," {{convert|199501|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|22 June 2007, 19:49:38|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|334|km}}<ref name=""SPACEWARN"">{{cite web|url=http://nssdc.gsfc.nasa.gov/spacewarn/spx644.html|title=SPACEWARN Bulletin No. 644|accessdate=9 August 2010|publisher=NASA|author=National Space Science Data Center/World Data Center for Satellite Information|date=1 July 2007}}</ref>
+"," {{convert|354|km}}
+"," 51.6 degrees
+
+"," 91.4 minutes
+"," gee
+"," 7
+"," [[Frederick W. Sturckow]]<br/>[[Lee J. Archambault]]<br/>[[Patrick G. Forrester]]<br/>[[Steven R. Swanson]]<br/>[[John D. Olivas]]<br/>[[James F. Reilly]]
+"
+64,Expedition 15,Expedition_15,https://en.wikipedia.org/wiki/Expedition_15," ISS Expedition
+"," 6&nbsp;months, 14&nbsp;days (at ISS)<br/><small>196&nbsp;days, 17&nbsp;hours, 17&nbsp;minutes (launch to landing)</small>
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Fyodor Yurchikhin]]<br/>[[Oleg Kotov]]<br/>[[Sunita Williams]]* (to June)<br/>[[Clayton Anderson]]† (from June)<br/><small>* - transferred from Expedition 14<br/>† - transferred to Expedition 16</small>
+"
+65,STS-118,STS-118,https://en.wikipedia.org/wiki/STS-118," ISS assembly
+"," 12 days, 17 hours, 55 minutes, 34 seconds
+"," 201
+"," {{OV|105}}
+"," {{convert|268574|lb|kg|disp=flip}}
+"," {{convert|222398|lb|kg|disp=flip}}<ref name=""presskit"">{{cite news | last=NASA | coauthors= | title= STS-118 Press Kit | date=July 2007 | publisher=NASA | url =http://www.nasa.gov/pdf/182728main_STS-118_Press_Kit.pdf | pages = | accessdate =22 August 2007 |format=PDF}}</ref>
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|21 August 2007, 16:33:20|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|226|km|mi|sp=us}}<ref name=parameters>{{cite web|title=ISS 13A.1 - Shuttle Endeavour (STS-118)|url=http://www.spacenewsfeed.co.uk/2007/12August2007_57.html|website=Space Newsfeed|publisher=Microcom Systems|accessdate=6 June 2014|archiveurl=https://web.archive.org/web/20070927032112/http://www.spacenewsfeed.co.uk/2007/12August2007_57.html|archivedate=27 September 2007|date=12 August 2007}}</ref>
+"," {{convert|226|km|mi|sp=us}}<ref name=parameters />
+"," 51.6 degrees
+
+"," 91.6 minutes
+"," gee
+"," 7
+"," [[Scott Kelly (astronaut)|Scott J. Kelly]]<br/>[[Charles O. Hobaugh]]<br/>[[Tracy Caldwell Dyson|Tracy E. Caldwell]]<br/>[[Richard Mastracchio|Richard A. Mastracchio]]<br/>[[Dafydd Williams|Dafydd R. Williams]]<br/>[[Barbara Morgan|Barbara R. Morgan]]<br/>[[Alvin Drew|B. Alvin Drew]]
+"
+66,STS-120,STS-120,https://en.wikipedia.org/wiki/STS-120," ISS assembly
+"," 15 days, 2 hours, 24 minutes.
+"," 238
+"," {{OV|103}}
+"," {{convert|286211|lbs|kg|disp=flip}}<ref name=""presskit"" />
+"," {{convert|201895|lbs|kg|disp=flip}}<ref name=""presskit"" />
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|7 November 2007, 18:01:18|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|340|km}}<ref name=""spacewarn"">{{cite web|url=http://nssdc.gsfc.nasa.gov/spacewarn/spx648.html|title=SPACEWARN Bulletin 648|accessdate=15 June 2008|publisher=[[NASA]]|year=2007|author=[[NASA]]}}</ref>
+"," {{convert|344|km}}<ref name=""spacewarn"" />
+"," 51.6 degrees<ref name=""ql"">{{cite news|url=http://www.cbsnews.com/network/news/space/120/120quicklook1.html|title=CBS News Space STS-120 Quick Look Data|accessdate=10 October 2007|publisher=[[CBS News]]|year=2007|author=William Harwood}}</ref>
+
+"," 91.6 minutes<ref name=""ql"" />
+"," gee
+"," 7
+"," [[Pamela Melroy]]<br/>[[George D. Zamka]]<br/>[[Douglas H. Wheelock]]<br/>[[Stephanie Wilson]]<br/>[[Scott E. Parazynski]]<br/>[[Paolo A. Nespoli]]
+"
+67,STS-122,STS-122,https://en.wikipedia.org/wiki/STS-122," ISS assembly
+"," 12 days, 18 hours, 21 minutes, 50 seconds<ref name=""SFN-MSC"" />
+"," 202
+"," {{OV|104}}
+"," {{convert|267341|lb|kg|disp=flip}}
+"," {{convert|206212|lb|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|20 February 2008, 14:07:10|timezone=yes}}&nbsp;UTC<ref name=""SFN-MSC"" />
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 9 February 2008<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=24 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|331|km}}<ref name=""SATCAT""/>
+"," {{convert|339|km}}<ref name=""SATCAT""/>
+"," 51.6 degrees<ref name=""SATCAT""/><ref name=""ql"">{{cite news|url=http://www.cbsnews.com/network/news/space/122/122quicklook1.html|title=STS-122 Quick Look Data|accessdate=26 November 2007|publisher=[[CBS News]]|year=2007|author=William Harwood}}</ref>
+
+"," 91.23 minutes<ref name=""SATCAT""/>
+"," gee
+"," 7
+"," [[Stephen Frick]]<br/>[[Alan G. Poindexter]]<br/>[[Leland D. Melvin]]<br/>[[Rex J. Walheim]]<br/>[[Hans Schlegel]]<br/>[[Stanley G. Love]]
+"
+68,STS-123,STS-123,https://en.wikipedia.org/wiki/STS-123," ISS assembly
+"," 15 days, 18 hours, 12 minutes, 27 seconds
+"," 250
+"," {{OV|105}}
+"," {{convert|269767|lb|kg|disp=flip}}
+"," {{convert|207582|lb|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|27 March 2008, 00:40:41|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|336|km|mi|sp=us}}
+"," {{convert|346|km|mi|sp=us}}
+"," 51.6 degrees
+
+"," 91.6 minutes
+"," gee
+"," 7
+"," [[Dominic L. Pudwill Gorie|Dominic Gorie]]<br/>[[Gregory H. Johnson]]<br/>[[Robert L. Behnken]]<br/>[[Michael Foreman (astronaut)|Michael Foreman]]<br/>[[Richard M. Linnehan]]<br/>[[Takao Doi]]
+"
+69,STS-124,STS-124,https://en.wikipedia.org/wiki/STS-124," ISS assembly
+"," 13 days, 18 hours, 13 minutes 7 seconds
+"," 217
+"," {{OV|103}}
+"," {{convert|269123|lb|kg|disp=flip}}
+"," {{convert|203320|lb|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|14 June 2008, 15:15:19|timezone=yes}}&nbsp;UTC<ref>{{cite web|url=http://www.nasa.gov/pdf/228145main_sts124_presskit2.pdf |title=Page 19 |format=PDF |accessdate=22 August 2010}}</ref>
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|177|nmi|km|disp=flip}}
+"," {{convert|166|nmi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 91 minutes
+"," gee
+"," 7
+"," [[Mark Kelly (astronaut)|Mark E. Kelly]]<br/>[[Kenneth Ham|Kenneth T. Ham]]<br/>[[Karen L. Nyberg]]<br/>[[Ronald J. Garan, Jr.]]<br/>[[Michael E. Fossum]]<br/>[[Akihiko Hoshide]]
+"
+70,STS-126,STS-126,https://en.wikipedia.org/wiki/STS-126," ISS assembly
+"," 15 days, 20 hours, 30 minutes, 34 seconds<ref name=""landingblog"" />
+"," 251
+"," {{OV|105}}
+"," {{convert|266894|lb|kg|disp=flip}}<ref name=""presskit"" />
+"," {{convert|223422|lb|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|30 November 2008, 21:25|timezone=yes}}&nbsp;UTC<ref name=""landingblog"" />
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;4L
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|185|nmi|km|disp=flip}}<ref>http://heavens-above.com/orbit.aspx?satid=33441&lat=13.583&lng=-89.833&loc=Acajutla&alt=0&tz=UCT6</ref>
+"," {{convert|190|nmi|km|disp=flip}}
+"," 51.6 degrees<ref name=""ql"">{{cite news|url=http://www.cbsnews.com/network/news/space/126/126quicklook1.html|title=CBS NEWS Mission Quick-Look 1|accessdate=3 October 2008|publisher=CBS News|year=2008|author=William Harwood}}</ref>
+
+"," 91.6 minutes<ref name=""ql"" />
+"," gee
+"," 7
+"," [[Christopher Ferguson]]<br/>[[Eric A. Boe]]<br/>[[Donald Pettit]]<br/>[[Stephen G. Bowen]]<br/>[[Heidemarie Stefanyshyn-Piper]]<br/>[[Robert S. Kimbrough]]
+"
+71,STS-127,STS-127,https://en.wikipedia.org/wiki/STS-127," ISS assembly
+"," 15 days, 16 hours, 44 minutes, 58 seconds
+"," 248<ref name=""ql1"" />
+"," {{OV|105}}
+","
+","
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|31 July 2009, 14:48|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 18 July 2009<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=28 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|344|km}}<ref name=""SATCAT"" />
+"," {{convert|351|km}}<ref name=""SATCAT"" />
+"," 51.6 degrees<ref name=""ql1"" /><ref name=""SATCAT"" />
+
+"," 91.48 minutes<ref name=""SATCAT"" />
+"," gee
+"," 7
+"," [[Mark L. Polansky]]<br />[[Douglas G. Hurley]]<br />[[Christopher Cassidy|Christopher J. Cassidy]]<br />[[Julie Payette]]<br />[[Thomas Marshburn|Thomas H. Marshburn]]<br />[[David Wolf (astronaut)|David Wolf]]
+"
+72,STS-119,STS-119,https://en.wikipedia.org/wiki/STS-119," ISS assembly
+"," 12 days, 19 hours, 29 minutes, 33 seconds<ref name=""home"" />
+"," 202<ref name=""home"" />
+"," {{OV|103}}
+"," {{convert|266448|lb|kg|disp=flip}}<ref name=""presskit"">{{cite web |url=http://www.nasa.gov/pdf/304681main_STS-119_Press_Kit.pdf |title=STS-119 Press Kit |accessdate=11 March 2009 |publisher=NASA |year=2009 |author=NASA}}</ref>
+"," {{convert|200986|lb|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|28 March 2009, 19:13|timezone=yes}}&nbsp;UTC<ref name=""home"">{{cite web|url=http://www.spaceflightnow.com/shuttle/sts119/090328fd14/index3.html|title=Welcome home, Discovery!|accessdate=28 March 2009|publisher=Spaceflightnow.com|date=28 March 2009|author=William Harwood for CBS News}}</ref>
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|217|nmi|km|disp=flip}}
+"," {{convert|208|nmi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 91.6 minutes
+"," gee
+"," 7
+"," [[Lee J. Archambault]]<br/>[[Dominic A. Antonelli|Dominic A. ""Tony"" Antonelli]]<br/>[[Joseph M. Acaba]]<br/>[[Steven Swanson|Steven R. Swanson]]<br/>[[Richard R. Arnold]]<br/>[[John L. Phillips]]
+"
+73,STS-125,STS-125,https://en.wikipedia.org/wiki/STS-125," Hubble servicing
+"," 12 days, 21 hours, 37 minutes, 9 seconds<ref name=""cnetlanding"" />
+"," 197<ref name=""cnetlanding"" />
+"," {{OV|104}}
+","
+","
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|24 May 2009, 15:39:05|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22<ref name=""cnetlanding"">{{Cite web| url=http://news.cnet.com/space-shot/?keyword=Hubble+Space+Telescope|title=Shuttle Atlantis glides to smooth California landing|accessdate=26 May 2009|publisher=[[CNET]]|date=24 May 2009| first=William| last=Harwood}}</ref>
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|486|km}}
+"," {{convert|578|km}}
+"," 28.5°<ref group=NASA name=""final"" />
+
+"," 97 min
+"," gee
+"," 7
+"," [[Scott Altman]]<br />[[Gregory C. Johnson]]<br />[[Michael T. Good]]<br />[[Megan McArthur]]<br />[[John M. Grunsfeld]]<br />[[Michael J. Massimino]]<br />[[Andrew J. Feustel]]
+"
+74,STS-128,STS-128,https://en.wikipedia.org/wiki/STS-128," ISS assembly
+"," 13&nbsp;days, 20&nbsp;hours, 54&nbsp;minutes, 55&nbsp;seconds
+"," 219
+"," {{OV|103}}
+"," {{convert|267689|lb|kg|disp=flip}}<ref name=Presskit/>
+","
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|12 September 2009, 00:53|timezone=yes}}&nbsp;UTC
+"," [[Edwards Air Force Base|Edwards]] Runway&nbsp;22
+
+"," 29 August 2009<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=24 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|219|km}}<ref name=""SATCAT""/>
+"," {{convert|264|km}}<ref name=""SATCAT""/>
+"," 51.6 degrees<ref name=""SATCAT""/>
+
+"," 89.33 minutes<ref name=""SATCAT""/>
+"," gee
+"," 7
+"," [[Frederick W. Sturckow]]<br />[[Kevin A. Ford]]<br />[[Patrick G. Forrester]]<br />[[Jose Hernández (astronaut)|José M. Hernández]]<br />[[John D. Olivas]]<br />[[Christer Fuglesang]]
+"
+75,STS-129,STS-129,https://en.wikipedia.org/wiki/STS-129," ISS logistics
+"," 10 days 19:16:13
+"," 171
+"," {{OV|104}}
+"," {{convert|266424|lbs|kg|disp=flip}}
+"," 
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|November 27, 2009, 14:44:22|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|213|mi|km|disp=flip}}
+"," {{convert|221|mi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 91 minutes
+"," gee
+"," 6 up<br />7 down
+"," [[Charles O. Hobaugh]]<br />[[Barry E. Wilmore]]<br />[[Leland D. Melvin]]<br />[[Randolph Bresnik]]<br />[[Michael Foreman (astronaut)|Michael Foreman]]<br />[[Robert Satcher]]
+"
+76,STS-130,STS-130,https://en.wikipedia.org/wiki/STS-130," ISS assembly
+"," 13 days, 18 hours, 6 minutes, 24 seconds<ref name=""Remaining"">{{cite web|url=http://www.nasa.gov/pdf/394380main_2009.12.01%20Remaining%20Shuttle%20Missions.pdf|title=Remaining Space Shuttle Missions|accessdate=8 December 2009|publisher=[[NASA]]|date= September 2009|author=NASA}}</ref><ref name=""change"">{{cite web|url=http://www.nasaspaceflight.com/2009/12/sts-130-intertank-tested-mission-duration-change-requested/|title=STS-130: ET-134 Intertank tested – Mission duration change requested|accessdate=4 December 2009|publisher=NASASpaceFlight.com|date=4 December 2009|author=Chris Bergin}}</ref><ref name=""extension"">{{cite web|url=http://www.nasaspaceflight.com/2010/02/eva-2-node-3-outfitting-additional-docked-day-taken/|title=EVA-2 continues Node 3 outfitting-Additional docked day option taken|accessdate=13 February 2010|publisher=NASASpaceflight.com|date=13 February 2010|last=Gebhardt|first=Chris}}</ref>
+"," 217
+"," {{OV|105}}
+"," {{convert|4521961|lbs|kg|disp=flip}} (total)<ref name=""press"">{{cite web |url=http://www.nasa.gov/pdf/420302main_sts130_press_kit.pdf |title=NASA STS-130 Press Kit |author=NASA |date=29 January 2010 |publisher=NASA |accessdate=31 January 2010}}</ref><br />{{convert|267470|lbs|kg|disp=flip}} (orbiter)
+"," {{convert|200694|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|22 February 2010, 03:22:10|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|212|mi|km|disp=flip}}
+"," {{convert|221|mi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 92 minutes
+"," gee
+"," 6
+"," [[George D. Zamka]]<br />[[Terry Virts]]<br />[[Kathryn P. Hire]]<br />[[Stephen Robinson]]<br />[[Nicholas Patrick]]<br />[[Robert L. Behnken]]
+"
+77,STS-131,STS-131,https://en.wikipedia.org/wiki/STS-131," ISS logistics
+"," 15 days 2 hours, 47 min, 11 seconds<ref name=""Remaining"">{{cite web|url=http://www.nasa.gov/pdf/394380main_2009.12.01%20Remaining%20Shuttle%20Missions.pdf|title=Remaining Space Shuttle Missions|accessdate=8 December 2009|publisher=[[NASA]]|date= September 2009|author=NASA}}</ref><ref name=""extra"">{{Cite web|url=http://www.nasaspaceflight.com/2010/04/sts-131-nasa-plan-extra-docked-day-late-inspections/|title=STS-131: NASA managers plan out extra docked day late inspections|accessdate=10 April 2010|publisher=NASASpaceflight.com|author=Chris Bergin}}</ref><ref name=""abc20100419"">{{cite news|url=http://abcnews.go.com/Technology/wireStory?id=10413467|title=Cloudy Skies Delay Space Shuttle's Homecoming|work=ABCNews.com|publisher=[[American Broadcasting Company]]|date=19 April 2010|accessdate=19 April 2010}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+"," 238
+"," {{OV|103}}
+"," {{convert|4521749|lbs|kg|disp=flip}}<ref name=""press kit"">{{Cite web|url=http://www.nasa.gov/pdf/435885main_sts131_press_kit.pdf|title=STS-131 press kit|accessdate=26 March 2010|publisher=NASA|author=NASA}}</ref>(total)<br />{{convert|266864|lbs|kg|disp=flip}} (orbiter)
+"," {{convert|224957|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|20 April 2010, 13:08:35|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|200|mi|km|disp=flip}}
+"," {{convert|215|mi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 90 minutes
+"," gee
+"," 7
+"," [[Alan Poindexter]]<br />[[James Dutton (astronaut)|James Dutton]]<br />[[Richard Mastracchio]]<br />[[Dorothy Metcalf-Lindenburger|Dorothy M. Metcalf-Lindenburger]]<br />[[Stephanie Wilson]]<br />[[Naoko Yamazaki]]<br />[[Clayton Anderson]]
+"
+78,STS-132,STS-132,https://en.wikipedia.org/wiki/STS-132," ISS assembly
+"," 11 days, 18 hours, 29 minutes, 9 seconds<ref name=""STS-132 Mission Information"">{{cite web|url=http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts132/index.html|title=STS-132 Mission Information|accessdate=6 March 2010|publisher=[[NASA]]|date= 4 March 2010|author=NASA}}</ref>
+"," 186
+"," {{OV|104}}
+"," {{convert|4519769|lbs|kg|disp=flip}}<ref name=""press"">{{Cite web|url=http://www.nasa.gov/pdf/451029main_sts132_press_kit.pdf|title=Space Shuttle Mission STS-132 Press Kit|author=NASA|date=May 2010|accessdate=7 May 2010}}</ref> (total)<br />{{convert|263100|lbs|kg|disp=flip}} (orbiter)
+"," {{convert|209491|lbs|kg|disp=flip}}
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|26 May 2010, 12:49:18|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;33]]
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|208|mi|km|disp=flip}}<ref>{{cite web|url=http://www.heavens-above.com/orbit.aspx?satid=36572&lat=0&lng=0&loc=Unspecified&alt=0&tz=UTC|title=STS-132 Orbit Data|author=Chris Peat|publisher=Heavens-Above GmbH|accessdate=9 August 2010}}</ref>
+"," {{convert|223|mi|km|disp=flip}}
+"," 51.6 degrees
+
+"," 91 minutes
+"," gee
+"," 6
+"," [[Kenneth Ham]]<br />[[Dominic A. Antonelli|Dominic A. ""Tony"" Antonelli]]<br />[[Garrett Reisman]]<br />[[Michael T. Good]]<br />[[Stephen G. Bowen]]<br />[[Piers Sellers]]
+"
+79,Expedition 24,Expedition_24,https://en.wikipedia.org/wiki/Expedition_24," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 23/24''':<br/>[[Aleksandr Skvortsov (cosmonaut)|Aleksandr Skvortsov]]<br/>[[Mikhail Korniyenko]]<br/>[[Tracy Caldwell Dyson]]<br/><br/>'''Expedition 24/25''':<br/>[[Fyodor Yurchikhin]]<br/>[[Shannon Walker]]<br/>[[Douglas H. Wheelock]]
+
+"
+80,STS-133,STS-133,https://en.wikipedia.org/wiki/STS-133," ISS assembly
+"," 12 days, 19 hours, 4 minutes, 50 seconds
+","
+"," {{OV|103}}
+"," Orbiter: {{convert|268620|lbs|kg|disp=flip}}<br />Stack: {{convert|4525220|lbs|kg|disp=flip}}
+","
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|9 March 2011, 16:58:14|timezone=yes}}&nbsp;UTC
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 25 February 2011<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=28 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|208|km}}<ref name=""SATCAT""/>
+"," {{convert|232|km}}<ref name=""SATCAT""/>
+"," 51.6 degrees<ref name=""SATCAT""/>
+
+"," 88.89 minutes<ref name=""SATCAT""/>
+"," gee
+"," 6
+"," [[Steven Lindsey]]<br />[[Eric Boe]]<br />[[Nicole Stott]]<br />[[Alvin Drew]]<br />[[Michael Barratt (astronaut)|Michael Barratt]]<br />[[Stephen Bowen (astronaut)|Stephen Bowen]]
+"
+81,STS-134,STS-134,https://en.wikipedia.org/wiki/STS-134," ISS assembly
+"," 15 days, 17 hours, 38 minutes, 51 seconds
+","
+"," {{OV|105}}
+"," {{convert|4524863|lbs|kg|disp=flip}} (total)<br />{{convert|268580|lbs|kg|disp=flip}} (orbiter)<ref name=""press_kit"">{{Cite web|url=http://www.nasa.gov/pdf/538352main_sts134_presskit_508.pdf|title=STS-134 Press Kit|accessdate=16 May 2011|publisher=NASA}}</ref><ref name=""obss"" />
+"," {{convert|203354|lbs|kg|disp=flip}}<ref name=""press_kit""/><ref name=""obss"" />
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|1 June 2011, 06:35|timezone=yes}}&nbsp;UTC<ref name=""landing"">{{Cite web|url=http://www.nasa.gov/mission_pages/shuttle/launch/index.html|title=Space Shuttle Launch and Landing|accessdate=16 May 2011|publisher=NASA}}</ref>
+"," [[Kennedy Space Center|Kennedy]] [[Shuttle Landing Facility|SLF Runway&nbsp;15]]
+
+"," 17 May 2011<ref name=""SATCAT"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=24 May 2013}}</ref>
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|321|km}}<ref name=""SATCAT""/>
+"," {{convert|343|km}}<ref name=""SATCAT""/>
+"," 51.6 degrees
+
+"," 91.17 minutes<ref name=""SATCAT""/>
+"," gee
+"," 6
+"," [[Mark Kelly (astronaut)|Mark E. Kelly]]<br />[[Gregory H. Johnson]]<br />[[Michael Fincke]]<br />[[Roberto Vittori]]<br />[[Andrew J. Feustel]]<br />[[Gregory Chamitoff]]
+"
+82,STS-135,STS-135,https://en.wikipedia.org/wiki/STS-135," ISS logistics
+"," 12 days, 18 hours, 28 minutes, 50 seconds<ref name=""flight plan"" />
+","
+"," {{OV|104}}
+","
+","
+",NaN," [[Kennedy Space Center|Kennedy]] [[Kennedy Space Center Launch Complex 39|LC-39A]]
+"," {{end-date|21 July 2011, 09:57|timezone=yes}}&nbsp;UTC
+"," [[Shuttle Landing Facility]]<ref name=""flight plan"">{{cite web|url=http://www.nasa.gov/mission_pages/shuttle/main/index.html |title=NASA - Landing|publisher= NASA| accessdate = 21 July 2011}}</ref>
+
+","
+"," [[geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+","
+","
+"," 51.6 degrees <!-- anticipated due to ISS mission --->
+
+","
+"," gee
+"," 4
+"," [[Christopher Ferguson]]<br />[[Douglas Hurley]]<br />[[Sandra Magnus]]<br />[[Rex Walheim]]
+"
+83,Expedition 32,Expedition_32,https://en.wikipedia.org/wiki/Expedition_32," ISS Expedition
+","
+"," 
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 31/32''':<br/>[[Gennady Padalka]]<br/>[[Joseph M. Acaba]]<br/>[[Sergei Revin]]<br/><br/>'''Expedition 32/33''':<br/>[[Sunita Williams]]<br/>[[Yuri Malenchenko]]<br/>[[Akihiko Hoshide]]
+
+"
+84,Expedition 35,Expedition_35,https://en.wikipedia.org/wiki/Expedition_35," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6 
+"," '''Expedition 34/35''':<br/>[[Chris Hadfield]]<br/>[[Thomas Marshburn]]<br/>[[Roman Romanenko]]<br/><br/>'''Expedition 35/36''':<br/>[[Christopher Cassidy]]<br/>[[Pavel Vinogradov]]<br/>[[Aleksandr Misurkin]]
+
+"
+85,Expedition 36,Expedition_36,https://en.wikipedia.org/wiki/Expedition_36," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 35/36''':<br/>[[Pavel Vinogradov]]<br/>[[Aleksandr Misurkin]]<br/>[[Chris Cassidy]]<br/><br/>'''Expedition 36/37''':<br/>[[Karen L. Nyberg]]<br/>[[Fyodor Yurchikhin]]<br/>[[Luca Parmitano]]
+
+"
+86,Voskhod 2,Voskhod_2,https://en.wikipedia.org/wiki/Voskhod_2," 
+"," 1&nbsp;day, 2&nbsp;hours, 2&nbsp;minutes, 17&nbsp;seconds
+"," 17
+
+"," [[Voskhod (spacecraft)|Voskhod-3KD]] No.4
+"," {{convert|5682|kg|lb}}
+","
+
+"," [[Voskhod (rocket)|Voskhod]] 11A57
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=2009-03-04 |publisher=Encyclopedia Astronautica |deadurl=yes |archiveurl=https://web.archive.org/web/20090415160730/http://www.astronautix.com/sites/baiurlc1.htm |archivedate=2009-04-15 |df= }}</ref>
+
+"," {{end-date|March 19, 1965, 09:02:17|timezone=yes}}&nbsp;UTC 
+"," {{Coord|59|34|N|55|28|E}}
+
+"," 
+"," [[geocentric orbit|Geocentric]]
+"," [[low Earth orbit|Low Earth]]
+"," {{convert|167|km|mi}} 
+"," {{convert|475|km|mi}} 
+"," 64.8&nbsp;degrees
+"," 90.9&nbsp;min 
+"," gee
+
+"," 2
+"," [[Pavel Belyayev]]<br/>[[Alexey Leonov]]
+"
+87,Soyuz 5,Soyuz_5,https://en.wikipedia.org/wiki/Soyuz_5," Test flight
+"," 3&nbsp;days, 54&nbsp;minutes, 15&nbsp;seconds
+"," 49
+
+"," 
+"," {{convert|6585|kg|lb}}
+","
+
+"," [[Soyuz (rocket)|Soyuz]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=2009-03-04 |publisher=Encyclopedia Astronautica |deadurl=yes |archiveurl=https://web.archive.org/web/20090415160730/http://www.astronautix.com/sites/baiurlc1.htm |archivedate=2009-04-15 |df= }}</ref>
+
+"," {{end-date|18 January 1969, 07:59:12|timezone=yes}}&nbsp;UTC
+","
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|196|km|mi}}
+"," {{convert|212|km|mi}}
+"," 51.7&nbsp;degrees
+"," 88.6&nbsp;minutes
+"," gee
+
+"," 3 up<br/>1 down
+"," [[Boris Volynov]]
+"
+88,Soyuz 4,Soyuz_4,https://en.wikipedia.org/wiki/Soyuz_4," Test flight
+"," 2&nbsp;days, 23&nbsp;hours, 20&nbsp;minutes, 47&nbsp;seconds
+"," 48
+
+"," 
+"," {{convert|6625|kg|lb}}
+","
+
+"," [[Soyuz (rocket)|Soyuz]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 31|31/6]]<ref>{{cite web |url=http://www.astronautix.com/sites/bairlc31.htm |title=Baikonur LC31 |accessdate=2009-03-04 |publisher=Encyclopedia Astronautica}}</ref>
+
+"," {{end-date|17 January 1969, 06:50:47|timezone=yes}}&nbsp;UTC
+","
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|213|km|mi|sp=us}}
+"," {{convert|224|km|mi|sp=us}}
+"," 51.7&nbsp;degrees
+"," 88.8&nbsp;minutes
+"," gee
+
+"," 1 up<br/>3 down
+"," [[Vladimir Shatalov]]
+"
+89,Soyuz 12,Soyuz_12,https://en.wikipedia.org/wiki/Soyuz_12," Test flight
+"," 1&nbsp;day, 23&nbsp;hours, 15&nbsp;minutes, 32&nbsp;seconds
+"," 31
+
+"," 
+"," {{convert|6720|kg|lb}}
+","
+
+"," [[Soyuz (rocket)|Soyuz]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=4 March 2009 |publisher=Encyclopedia Astronautica |deadurl=yes |archiveurl=https://web.archive.org/web/20090415160730/http://www.astronautix.com/sites/baiurlc1.htm |archivedate=15 April 2009 |df=dmy-all }}</ref>
+
+"," {{end-date|29 September 1973, 11:33:48|timezone=yes}}&nbsp;UTC
+"," {{coord|47|42|N|69|00|E}}
+
+"," 28 September 1973<ref name=satcat />
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|306|km|mi}}
+"," {{convert|348|km|mi}}
+"," 51.0&nbsp;degrees
+"," 91.0&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Vasili Lazarev]]<br/>[[Oleg Grigoryevich Makarov|Oleg Makarov]]
+"
+90,Soyuz 26,Soyuz_26,https://en.wikipedia.org/wiki/Soyuz_26," 
+"," 37&nbsp;days, 10&nbsp;hours, 6&nbsp;minutes, 18&nbsp;seconds
+"," 1,522
+
+"," 
+"," {{convert|6800|kg|lb}}
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=2009-03-04 |publisher=Encyclopedia Astronautica |deadurl=yes |archiveurl=https://web.archive.org/web/20090415160730/http://www.astronautix.com/sites/baiurlc1.htm |archivedate=2009-04-15 |df= }}</ref>
+
+"," {{end-date|16 January 1978, 11:24:58|timezone=yes}}&nbsp;UTC
+"," {{convert|265|km|mi}} W of Tselinograd
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|193|km|mi}}
+"," {{convert|246|km|mi}}
+"," 51.65&nbsp;degrees
+"," 88.67&nbsp;minutes
+"," gee
+
+"," 2
+",NaN
+91,Soyuz 29,Soyuz_29,https://en.wikipedia.org/wiki/Soyuz_29," 
+"," 79&nbsp;days, 15&nbsp;hours, 23&nbsp;minutes, 49&nbsp;seconds
+","
+
+"," 
+"," {{convert|6800|kg|lb}}
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]<ref>{{cite web |url=http://www.astronautix.com/sites/baiurlc1.htm |title=Baikonur LC1 |accessdate=2009-03-04 |publisher=Encyclopedia Astronautica |deadurl=yes |archiveurl=https://web.archive.org/web/20090415160730/http://www.astronautix.com/sites/baiurlc1.htm |archivedate=2009-04-15 |df= }}</ref>
+
+"," {{end-date|3 September 1978, 11:40:34|timezone=yes}}&nbsp;UTC
+"," {{coord|46|N|69|E}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|197.8|km|mi}}
+"," {{convert|266|km|mi}}
+"," 51.65&nbsp;degrees
+"," 88.86&nbsp;minutes
+"," gee
+
+"," 2
+",NaN
+92,Soyuz 32,Soyuz_32,https://en.wikipedia.org/wiki/Soyuz_32," 
+"," 107 days
+"," 2,755
+
+"," 
+"," 
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|June 13, 1979, 16:18:26|timezone=yes}}&nbsp;UTC
+"," {{convert|170|km|mi}} SE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+","  
+","  
+"," 
+"," 
+"," gee
+
+"," 2 up<br/>None down
+",NaN
+93,Soyuz T-5     ,Soyuz_T-5,https://en.wikipedia.org/wiki/Soyuz_T-5," 
+"," 16&nbsp;days, 5&nbsp;hours, 6&nbsp;minutes, 11&nbsp;seconds 
+","
+
+"," 
+"," {{convert|6850|kg|lb}}
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|August 27, 1982, 15:04:16|timezone=yes}}&nbsp;UTC
+"," {{convert|225|km|mi}} E of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|190|km|mi}}
+"," {{convert|231|km|mi}}
+"," 51.6&nbsp;degrees
+"," 89.7&nbsp;minutes
+"," gee
+
+"," 2 up<br/>3 down
+",NaN
+94,Soyuz T-9,Soyuz_T-9,https://en.wikipedia.org/wiki/Soyuz_T-9," 
+"," 149&nbsp;days, 10&nbsp;hours, 45&nbsp;minutes, 
+"," 2,361
+
+"," 
+"," {{convert|6850|kg|lb}}
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|November 23, 1983, 19:58:00|timezone=yes}}&nbsp;UTC
+"," {{convert|160|km|mi}} E of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|201|km|mi}}
+"," {{convert|229|km|mi}}
+"," 51.6&nbsp;degrees
+"," 88.6&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Vladimir Lyakhov]]<br/>[[Aleksandr Pavlovich Aleksandrov|Aleksandr Aleksandrov]]
+"
+95,Soyuz T-10,Soyuz_T-10,https://en.wikipedia.org/wiki/Soyuz_T-10," 
+"," 62&nbsp;days, 22&nbsp;hours, 41&nbsp;minutes, 22&nbsp;seconds
+","
+
+"," 
+"," {{convert|6850|kg|lb}}
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 31|31/6]]
+
+"," {{end-date|11 April 1984, 10:48:48|timezone=yes}}&nbsp;UTC
+"," 160 km E of [[Dzhezkazgan]]<br/>(145 km SE of Dzhezkazgan?){{citation needed|date=June 2013}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|199|km|mi}}
+"," {{convert|219|km|mi}}
+"," 51.6&nbsp;degrees
+"," 88.7&nbsp;minutes
+"," gee
+
+"," 3
+",NaN
+96,Soyuz T-12,Soyuz_T-12,https://en.wikipedia.org/wiki/Soyuz_T-12," 
+"," 11&nbsp;days, 19&nbsp;hours, 14&nbsp;minutes, 36&nbsp;seconds<ref name=EA-EP4>{{cite web|url=http://www.astronautix.com/flights/salt7ep4.htm|title=Salyut 7 EP-4|publisher=[[Encyclopedia Astronautica]]|accessdate=15 November 2010}}</ref>
+"," 186
+
+"," 
+"," {{convert|7020|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 31|31/6]]
+
+"," {{end-date|July 29, 1984, 12:55:30|timezone=yes}}&nbsp;UTC
+"," {{convert|140|km|mi}} SE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|192|km|mi}}
+"," {{convert|218|km|mi}}
+"," 51.6&nbsp;degrees
+"," 88.6&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Vladimir Dzhanibekov]]<br/>[[Svetlana Savitskaya]]<br/>[[Igor Volk]]
+"
+97,Soyuz T-13,Soyuz_T-13,https://en.wikipedia.org/wiki/Soyuz_T-13," 
+"," 112&nbsp;days, 3&nbsp;hours, 12&nbsp;minutes, 6&nbsp;seconds  
+"," 2,645
+
+"," 
+"," {{convert|6850|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|September 26, 1985, 09:51:58|timezone=yes}}&nbsp;UTC
+","
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|198|km|mi}}
+"," {{convert|222|km|mi}}
+"," 51.6&nbsp;degrees
+"," 88.7&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Vladimir Dzhanibekov]]
+"
+98,Soyuz T-15,Soyuz_T-15,https://en.wikipedia.org/wiki/Soyuz_T-15," 
+"," 125&nbsp;days, 56&nbsp;seconds 
+"," 1,980
+
+"," 
+"," {{convert|6850|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|16 July 1986, 12:34:05|timezone=yes}}&nbsp;UTC
+"," {{convert|55|km|mi}} NE of [[Arkalyk]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|331|km|mi}}
+"," {{convert|366|km|mi}}
+"," 51.6&nbsp;degrees
+"," 91.5&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Leonid Kizim]]<br/>[[Vladimir Solovyov (cosmonaut)|Vladimir Solovyov]]
+"
+99,Soyuz TM-2,Soyuz_TM-2,https://en.wikipedia.org/wiki/Soyuz_TM-2," 
+"," 174&nbsp;days, 3&nbsp;hours, 25&nbsp;minutes, 56&nbsp;seconds 
+"," ~2,810
+
+"," 
+"," {{convert|7100|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|30 July 1987, 01:04:12|timezone=yes}}&nbsp;UTC<ref name=EA-EP1>{{cite web|url=http://www.astronautix.com/flights/mirep1.htm|title=Mir EP-1|publisher=[[Encyclopedia Astronautica]]|accessdate=11 November 2010}}</ref>
+"," {{convert|80|km|mi}} from [[Arkalyk]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|341|km|mi}}
+"," {{convert|365|km|mi}}
+"," 51.6&nbsp;degrees
+"," 91.6&nbsp;minutes
+"," gee
+
+"," 2 up<br/>3 down
+"," [[Aleksandr Laveykin]]
+"
+100,Soyuz TM-4,Soyuz_TM-4,https://en.wikipedia.org/wiki/Soyuz_TM-4," 
+"," 178&nbsp;days, 22&nbsp;hours, 54&nbsp;minutes, 29&nbsp;seconds 
+"," ~2,890
+
+"," 
+"," {{convert|7070|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|June 17, 1988, 10:12:32|timezone=yes}}&nbsp;UTC
+"," {{convert|180|km|mi}} SE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|337|km|mi}}
+"," {{convert|357|km|mi}}
+"," 51.6&nbsp;degrees
+"," 91.5&nbsp;minutes
+"," gee
+
+"," 3
+",NaN
+101,Soyuz TM-7,Soyuz_TM-7,https://en.wikipedia.org/wiki/Soyuz_TM-7," 
+"," 151&nbsp;days, 11&nbsp;hours, 8&nbsp;minutes, 24&nbsp;seconds 
+"," ~2,450
+
+"," 
+"," {{convert|7000|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|April 27, 1989, 02:57:58|timezone=yes}}&nbsp;UTC
+"," {{convert|140|km|mi}} NE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|194|km|mi}}
+"," {{convert|235|km|mi}}
+"," 51.6&nbsp;degrees
+"," 88.8&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Alexander Alexandrovich Volkov (cosmonaut)|Alexander Volkov]]<br/>[[Sergei Krikalyov]]
+"
+102,Soyuz TM-8,Soyuz_TM-8,https://en.wikipedia.org/wiki/Soyuz_TM-8," 
+"," 166&nbsp;days, 6&nbsp;hours, 58&nbsp;minutes, 15&nbsp;seconds 
+"," ~2,680
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|February 19, 1990, 04:36:18|timezone=yes}}&nbsp;UTC
+"," {{convert|55|km|mi}} NE of [[Arkalyk]]<ref name=EA-EO5>{{cite web|url=http://www.astronautix.com/flights/mireo5.htm|title=Mir EO-5|publisher=[[Encyclopedia Astronautica]]|author=Mark Wade|accessdate=6 November 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20070409191451/http://astronautix.com/flights/mireo5.htm|archivedate=9 April 2007|df=}}</ref>
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|390|km|mi}} 
+"," {{convert|392|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 92.4&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Alexander Viktorenko]]<br/>[[Aleksandr Serebrov]]
+"
+103,Soyuz TM-17,Soyuz_TM-17,https://en.wikipedia.org/wiki/Soyuz_TM-17," 
+"," 196&nbsp;days, 17&nbsp;hours, 45&nbsp;minutes, 22&nbsp;seconds 
+"," ~3,070
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|January 14, 1994, 08:18:20|timezone=yes}}&nbsp;UTC
+"," {{coord|49.62|N|70.12|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|388|km|mi}} 
+"," {{convert|397|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 3 up<br/>2 down
+"," [[Vasili Tsibliyev]]<br/>[[Aleksandr Serebrov]]
+"
+104,Soyuz TM-9,Soyuz_TM-9,https://en.wikipedia.org/wiki/Soyuz_TM-9," 
+"," 179&nbsp;days, 1&nbsp;hour, 17&nbsp;minutes, 57&nbsp;seconds 
+"," ~2,895
+
+"," 
+"," {{convert|7150|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|August 9, 1990, 07:33:57|timezone=yes}}&nbsp;UTC
+"," {{convert|70|km|mi}} NE of [[Arkalyk]] - 50.85 N; 67.28 E
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|373|km|mi}}
+"," {{convert|387|km|mi}}
+"," 51.6&nbsp;degrees
+"," 92.2&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Anatoly Solovyev]]<br/>[[Aleksandr Nikolayevich Balandin|Aleksandr Balandin]]
+"
+105,Soyuz TM-10,Soyuz-TM,https://en.wikipedia.org/wiki/Soyuz-TM,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+106,Soyuz TM-11,Soyuz_TM-11,https://en.wikipedia.org/wiki/Soyuz_TM-11," 
+"," 175&nbsp;days, 1&nbsp;hour, 50&nbsp;minutes, 41&nbsp;seconds 
+"," ~2,735
+
+"," 
+"," {{convert|7150|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|May 26, 1991, 10:04:13|timezone=yes}}&nbsp;UTC
+"," near [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|367|km|mi}}
+"," {{convert|400|km|mi}}
+"," 51.6&nbsp;degrees
+"," 92.2&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Viktor M. Afanasyev|Viktor Afanasyev]]<br/>[[Musa Manarov]]
+"
+107,Soyuz TM-12,Soyuz_TM-12,https://en.wikipedia.org/wiki/Soyuz_TM-12," 
+"," 144&nbsp;days, 15&nbsp;hours, 21&nbsp;minutes, 50&nbsp;seconds 
+"," ~2,260
+
+"," 
+"," {{convert|7160|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|October 10, 1991, 04:12:18|timezone=yes}}&nbsp;UTC
+"," {{convert|61|km|mi}} SW of [[Arkalyk]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|389|km|mi}}
+"," {{convert|397|km|mi}}
+"," 51.6&nbsp;degrees
+"," 92.4&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Anatoly Artsebarsky]]
+"
+108,Soyuz TM-13,Soyuz_TM-13,https://en.wikipedia.org/wiki/Soyuz_TM-13," 
+"," 175&nbsp;days, 2&nbsp;hours, 51&nbsp;minutes, 44&nbsp;seconds 
+"," ~2,730
+
+"," 
+"," {{convert|7150|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|March 25, 1992, 08:51:22|timezone=yes}}&nbsp;UTC
+"," near [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|195|km|mi}}
+"," {{convert|232|km|mi}}
+"," 51.7&nbsp;degrees
+"," 92.4&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Alexander Alexandrovich Volkov (cosmonaut)|Alexander Volkov]]
+"
+109,Soyuz TM-14,Soyuz_TM-14,https://en.wikipedia.org/wiki/Soyuz_TM-14," 
+"," 145&nbsp;days, 14&nbsp;hours, 10&nbsp;minutes, 32&nbsp;seconds 
+"," ~2,280
+
+"," 
+"," {{convert|7150|kg|lb}}
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|August 10, 1992, 01:05:02|timezone=yes}}&nbsp;UTC
+"," {{convert|136|km|mi}} SE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|373|km|mi}} 
+"," {{convert|394|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 92.2&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Alexander Viktorenko]]<br/>[[Alexander Kaleri]]
+"
+110,Soyuz TM-15,Soyuz_TM-15,https://en.wikipedia.org/wiki/Soyuz_TM-15," 
+"," 188&nbsp;days, 21&nbsp;hours, 41&nbsp;minutes, 15&nbsp;seconds 
+"," ~3,070
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|February 1, 1993, 03:49:57|timezone=yes}}&nbsp;UTC
+"," near [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|196|km|mi}} 
+"," {{convert|216|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 3 up<br/>2 down
+"," [[Anatoly Solovyev]]<br/>[[Sergei Avdeyev]]
+"
+111,Soyuz TM-16,Soyuz_TM-16,https://en.wikipedia.org/wiki/Soyuz_TM-16," 
+"," 179&nbsp;days, 43&nbsp;minutes, 45&nbsp;seconds 
+"," ~2,790
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|July 22, 1993, 06:41:50|timezone=yes}}&nbsp;UTC
+"," {{convert|140|km|mi}} S of  [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|393|km|mi}} 
+"," {{convert|394|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 2 up<br/>3 down
+"," [[Gennadi Manakov]]<br/>[[Alexander Poleshchuk]]
+"
+112,Soyuz TM-18,Soyuz_TM-18,https://en.wikipedia.org/wiki/Soyuz_TM-18," [[Mir]] crew transport
+"," 182&nbsp;days, 27&nbsp;minutes, 1&nbsp;second 
+"," ~2,910
+
+"," Soyuz 7K-STM No. 67
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|July 9, 1994, 10:32:35|timezone=yes}}&nbsp;UTC
+"," {{convert|110|km|mi}} north of [[Arkalyk]]
+
+"," 7 February 1994{{convert|390|km|mi}}<ref name=""satcat"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=9 November 2013}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|384|km|mi}}
+"," {{convert|390|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 92.29&nbsp;minutes
+"," gee
+
+"," 3 up<br/>2 down
+"," [[Viktor M. Afanasyev|Viktor Afanasyev]]<br/>[[Yury Usachov]]
+"
+113,Soyuz TM-19,Soyuz_TM-19,https://en.wikipedia.org/wiki/Soyuz_TM-19," [[Mir]] crew transport
+"," 125&nbsp;days, 22&nbsp;hours, 53&nbsp;minutes, 36&nbsp;seconds 
+"," 1,993
+
+"," Soyuz 7K-STM No.68<ref name=""launchlog"">{{cite web|url=http://planet4589.org/space/log/launchlog.txt|title=Launch Log|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=9 November 2013}}</ref>
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|November 4, 1994, 11:18:26|timezone=yes}}&nbsp;UTC
+"," {{convert|88|km|mi}} northeast of [[Arkalyk]]
+
+"," 31 July 1994<ref name=""satcat"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=9 November 2013}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|396|km|mi}}
+"," {{convert|397|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 92.48&nbsp;minutes
+"," gee
+
+"," 2 up<br/>3 down
+"," [[Yuri Malenchenko]]<br/>[[Talgat Musabayev]]
+"
+114,Soyuz TM-20,Soyuz_TM-20,https://en.wikipedia.org/wiki/Soyuz_TM-20," [[Mir]] crew transport
+"," 169&nbsp;days, 5&nbsp;hours, 21&nbsp;minutes, 35&nbsp;seconds 
+"," ~2,760
+
+"," Soyuz 7K-STM No.69<ref name=""launchlog"">{{cite web|url=http://planet4589.org/space/log/launchlog.txt|title=Launch Log|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=9 November 2013}}</ref>
+"," {{convert|7170|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|March 22, 1995, 04:04:05|timezone=yes}}&nbsp;UTC
+"," {{coord|50.52|N|67.35|E|}}
+
+"," 3 November 1994<ref name=""satcat"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=9 November 2013}}</ref>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|392|km|mi}}
+"," {{convert|394|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 92.42&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Alexander Viktorenko]]<br/>[[Yelena Kondakova]]
+"
+115,Soyuz TM-22,Soyuz_TM-22,https://en.wikipedia.org/wiki/Soyuz_TM-22," 
+"," 179&nbsp;days, 1&nbsp;hour, 41&nbsp;minutes, 45&nbsp;seconds 
+"," ~2,800
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U2]]
+","
+
+"," {{end-date|February 29, 1996, 10:42:08|timezone=yes}}&nbsp;UTC
+"," {{coord|51.38|N|67.45|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|339|km|mi}} 
+"," {{convert|340|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 3
+"," [[Yuri Gidzenko]]<br/>[[Sergei Avdeyev]]<br/>[[Thomas Reiter]]
+"
+116,Soyuz TM-23,Soyuz_TM-23,https://en.wikipedia.org/wiki/Soyuz_TM-23," 
+"," 193&nbsp;days, 19&nbsp;hours, 7&nbsp;minutes, 35&nbsp;seconds 
+"," ~3,155
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|September 2, 1996, 07:41:40|timezone=yes}}&nbsp;UTC
+"," {{coord|50.28|N|70.83|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|202|km|mi}} 
+"," {{convert|240|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 2 up<br/>3 down
+"," [[Yuri Onufrienko]]<br/>[[Yury Usachov]]
+"
+117,Soyuz TM-24,Soyuz_TM-24,https://en.wikipedia.org/wiki/Soyuz_TM-24," 
+"," 196&nbsp;days, 17&nbsp;hours, 26&nbsp;minutes, 13&nbsp;seconds 
+"," ~3,160
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|2 March 1997, 06:44:16|timezone=yes}}&nbsp;UTC
+"," {{coord|47.82|N|69.40|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|235.1|km|mi}} 
+"," {{convert|287.4|km|mi}} 
+"," 51.56&nbsp;degrees
+"," 
+"," gee
+
+"," 3
+"," [[Valery Korzun]]<br/>[[Aleksandr Kaleri]]
+"
+118,Soyuz TM-25,Soyuz_TM-25,https://en.wikipedia.org/wiki/Soyuz_TM-25," 
+"," 184&nbsp;days, 22&nbsp;hours, 7&nbsp;minutes, 40&nbsp;seconds 
+"," ~2,950
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|August 14, 1997, 12:17:10|timezone=yes}}&nbsp;UTC
+"," {{convert|170|km|mi}} SE of [[Dzhezkazgan]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|378|km|mi}} 
+"," {{convert|394|km|mi}} 
+"," 51.56&nbsp;degrees
+"," 
+"," gee
+
+"," 3 up<br/>2 down
+"," [[Vasili Tsibliyev]]<br/>[[Aleksandr Lazutkin]]
+"
+119,Soyuz TM-26,Soyuz_TM-26,https://en.wikipedia.org/wiki/Soyuz_TM-26," 
+"," 197&nbsp;days, 17&nbsp;hours, 34&nbsp;minutes, 36&nbsp;seconds 
+"," ~3,220
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|February 19, 1998, 09:10:30|timezone=yes}}&nbsp;UTC
+"," {{coord|50.18|N|67.50|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|193|km|mi}} 
+"," {{convert|249|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 2 up<br/>3 down
+"," [[Anatoly Solovyev]]<br/>[[Pavel Vinogradov]]
+"
+120,Soyuz TM-27,Soyuz_TM-27,https://en.wikipedia.org/wiki/Soyuz_TM-27," 
+"," 207&nbsp;days, 12&nbsp;hours, 51&nbsp;minutes, 2&nbsp;seconds 
+"," 3,284
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|August 25, 1998, 05:24:44|timezone=yes}}&nbsp;UTC
+"," {{coord|47.96944|N|69.63056|E|}}
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|382|km|mi}} 
+"," {{convert|390|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 
+"," gee
+
+"," 3
+"," [[Talgat Musabayev]]<br/>[[Nikolai Budarin]]
+"
+121,Soyuz TM-28,Soyuz_TM-28,https://en.wikipedia.org/wiki/Soyuz_TM-28," 
+"," 198&nbsp;days, 16&nbsp;hours, 31&nbsp;minutes, 19&nbsp;seconds 
+"," 3,144
+
+"," 
+"," 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|February 28, 1999, 02:14:30|timezone=yes}}&nbsp;UTC
+"," {{Coord|50|42|N|67|12|E|}}<br/>{{convert|100|km|mi}} south of [[Kijma]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|190|km|mi}} 
+"," {{convert|273.7|km|mi}} 
+"," 51.64&nbsp;degrees
+"," 88.5&nbsp;minutes
+"," gee
+
+"," 3 up<br/>2 down
+"," [[Gennady Padalka]]
+"
+122,Soyuz TM-29,Soyuz_TM-29,https://en.wikipedia.org/wiki/Soyuz_TM-29," 
+"," 188&nbsp;days, 20&nbsp;hours, 16&nbsp;minutes, 19&nbsp;seconds 
+"," ~3,070
+
+"," 
+"," {{convert|7150|kg|lb}} 
+","
+
+"," [[Soyuz-U]]
+","
+
+"," {{end-date|August 28, 1999, 00:34:20|timezone=yes}}&nbsp;UTC
+"," {{convert|70|km|mi}} NE of [[Arkalyk]]
+
+"," 
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|188|km|mi}} 
+"," {{convert|273|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 88.6&nbsp;minutes
+"," gee
+
+"," 3
+"," [[Viktor M. Afanasyev|Viktor Afanasyev]]<br/>[[Jean-Pierre Haigneré]]
+"
+123,Soyuz TM-30,Soyuz_TM-30,https://en.wikipedia.org/wiki/Soyuz_TM-30," [[Mir]] crew transport
+"," 72&nbsp;days, 19&nbsp;hours, 42&nbsp;minutes
+"," 1,145
+
+"," Soyuz 7K-STM No.204<ref name=""satcat"">{{cite web|url=http://planet4589.org/space/log/satcat.txt|title=Satellite Catalog|first=Jonathan|last=McDowell|work=Jonathan's Space Page|accessdate=21 November 2013}}</ref>
+"," 
+","
+
+"," [[Soyuz-U]]
+"," [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 1|1/5]]
+
+"," {{end-date|June 16, 2000, 00:44|timezone=yes}}&nbsp;UTC
+"," {{coord|49|54|N|67|12|E}}
+
+"," May 5, 2000<ref name=""satcat""/>
+"," [[Geocentric orbit|Geocentric]]
+"," [[Low Earth orbit|Low Earth]]
+"," {{convert|358|km|mi}} 
+"," {{convert|384|km|mi}} 
+"," 51.6&nbsp;degrees
+"," 91.96&nbsp;minutes
+"," gee
+
+"," 2
+"," [[Sergei Zalyotin]]<br/>[[Aleksandr Kaleri]]
+"
+124,Expedition 2,Expedition_2,https://en.wikipedia.org/wiki/Expedition_2," ISS Expedition
+"," 163&nbsp;days, 8&nbsp;hours, 13&nbsp;minutes (at ISS)<br/>167&nbsp;days, 6&nbsp;hours, 41&nbsp;minutes (launch to landing)<ref name=ISS2 group=NASA>{{cite web|url=http://spaceflight.nasa.gov/station/crew/exp2/index.html|title=ISS Expedition Two Crew|publisher=[[NASA]]|accessdate=3 January 2011}}</ref>
+"," 2,635<ref name=SFexp2>{{cite web|url=http://www.spacefacts.de/iss/english/exp_2.htm|title=ISS: Expedition 2|publisher=spacefacts.de|accessdate=3 January 2011}}</ref>
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Yury Usachev]]<br/>[[Susan J. Helms|Susan Helms]]<br/>[[James Voss]]
+"
+125,Expedition 3,Expedition_3,https://en.wikipedia.org/wiki/Expedition_3," ISS Expedition
+"," 124&nbsp;days, 22&nbsp;hours, 47&nbsp;minutes (at ISS)<br/>128&nbsp;days, 20&nbsp;hours, 45&nbsp;minutes, 58&nbsp;seconds (launch to landing)
+"," 2,020
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Frank Culbertson]]<br/>[[Vladimir Dezhurov]]<br/>[[Mikhail Tyurin]]
+"
+126,Expedition 4,Expedition_4,https://en.wikipedia.org/wiki/Expedition_4," ISS Expedition
+"," 190&nbsp;days, 5&nbsp;hours, 31&nbsp;minutes (at ISS)<br/><small>195&nbsp;days, 11&nbsp;hours, 38&nbsp;minutes, 13&nbsp;seconds (launch to landing)</small>
+"," 3,068
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Yury Onufrienko]]<br/>[[Daniel W. Bursch]]<br/>[[Carl E. Walz]]
+"
+127,Expedition 5,Expedition_5,https://en.wikipedia.org/wiki/Expedition_5," ISS Expedition
+"," 178&nbsp;days, 3&nbsp;hours, 10&nbsp;minutes<ref name=nasafive group=NASA>{{cite web|title=ISS Expedition Five Crew|url=http://spaceflight.nasa.gov/station/crew/exp5/|publisher=NASA|accessdate=8 March 2011}}</ref>  (at ISS)<br/><small>184&nbsp;days, 22&nbsp;hours, 14&nbsp;minutes and 23&nbsp;seconds<ref name=nasafive group=NASA/> (launch to landing)</small>
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Valery Korzun]]<br/>[[Peggy Whitson]]<br/>[[Sergei Treshchev]]
+"
+128,Expedition 8,Expedition_8,https://en.wikipedia.org/wiki/Expedition_8," ISS Expedition
+"," 192&nbsp;days, 13&nbsp;hours, 36&nbsp;minutes and 11&nbsp;seconds (at ISS)<br/><small>194&nbsp;days, 18&nbsp;hours, 33&nbsp;minutes, 12&nbsp;seconds (launch to landing)</small>
+"," ~3,036
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[Michael Foale]]<br/>[[Aleksandr Kaleri]]
+"
+129,Expedition 9,Expedition_9,https://en.wikipedia.org/wiki/Expedition_9," ISS Expedition
+"," 185&nbsp;days, 15&nbsp;hours, 7&nbsp;minutes (at ISS)<br/><small>187&nbsp;days, 21&nbsp;hours, 16&nbsp;minutes (launch to landing)</small>
+"," 2,940
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[Gennady Padalka]]<br/>[[Michael Fincke]]
+"
+130,Expedition 10,Expedition_10,https://en.wikipedia.org/wiki/Expedition_10," ISS Expedition
+"," 190&nbsp;days, 11&nbsp;hours, 23&nbsp;minutes (at ISS)<br/><small>192&nbsp;days 19&nbsp;hours, 2&nbsp;minutes (launch to landing)</small>
+"," ~2,975
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[Leroy Chiao]]<br/>[[Salizhan Sharipov]]
+"
+131,Expedition 26,Expedition_26,https://en.wikipedia.org/wiki/Expedition_26," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 25/26''':<br/>[[Scott Kelly (astronaut)|Scott J. Kelly]]<br/>[[Aleksandr Kaleri]]<br/>[[Oleg Skripochka]]<br/><br/>'''Expedition 26/27''':<br/>[[Dmitri Kondratyev]]<br/>[[Catherine Coleman]]<br/>[[Paolo Nespoli]]
+
+"
+132,Expedition 11,Expedition_11,https://en.wikipedia.org/wiki/Expedition_11," ISS Expedition
+"," 176&nbsp;days, 19&nbsp;hours, 30&nbsp;minutes (at ISS)<br/><small>179&nbsp;days, 23&nbsp;minutes (launch to landing)</small>
+"," 2,817
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[Sergei K. Krikalev]]<br/>[[John L. Phillips]]
+"
+133,Expedition 12,Expedition_12,https://en.wikipedia.org/wiki/Expedition_12," ISS Expedition
+"," 187&nbsp;days, 14&nbsp;hours, 1&nbsp;minute (at ISS)<br/><small>189&nbsp;days, 19&nbsp;hours, 53&nbsp;minutes (launch to landing)</small>
+"," 2,987
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2
+"," [[William S. McArthur]]<br/>[[Valery Ivanovich Tokarev]]
+"
+134,Expedition 13,Expedition_13,https://en.wikipedia.org/wiki/Expedition_13," ISS Expedition
+"," 180&nbsp;days, 17&nbsp;hours, 34&nbsp;minutes (at ISS)<br/><small>182&nbsp;days, 23&nbsp;hours, 44&nbsp;minutes (launch to landing)</small>
+"," 2,886
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 2<br/>3 (from July)
+"," [[Pavel Vinogradov]]<br/>[[Jeffrey Williams (astronaut)|Jeffrey Williams]]<br/>[[Thomas Reiter]]* (from July)<br/><small>* - Transferred to Expedition 14</small>
+"
+135,Expedition 14,Expedition_14,https://en.wikipedia.org/wiki/Expedition_14," ISS Expedition
+"," 7&nbsp;months, 3&nbsp;days (at ISS)<br/><small>215&nbsp;days 8&nbsp;hours (López-Alegría/Tyurin) (launch to landing)</small>
+"," 3,401 (López-Alegría/Tyurin)
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Michael López-Alegría]]<br/>[[Mikhail Tyurin]]<br/>[[Thomas Reiter]]* (until December)<br/>[[Sunita Williams]]† (from December)<br/><small>* - transferred from Expedition 13<br/>† - transferred to Expedition 15</small>
+"
+136,Expedition 15,Expedition_15,https://en.wikipedia.org/wiki/Expedition_15," ISS Expedition
+"," 6&nbsp;months, 14&nbsp;days (at ISS)<br/><small>196&nbsp;days, 17&nbsp;hours, 17&nbsp;minutes (launch to landing)</small>
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Fyodor Yurchikhin]]<br/>[[Oleg Kotov]]<br/>[[Sunita Williams]]* (to June)<br/>[[Clayton Anderson]]† (from June)<br/><small>* - transferred from Expedition 14<br/>† - transferred to Expedition 16</small>
+"
+137,Expedition 17,Expedition_17,https://en.wikipedia.org/wiki/Expedition_17," ISS Expedition
+"," 
+"," 
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Sergey Alexandrovich Volkov|Sergei Volkov]]*<br/>[[Oleg Kononenko]]<br/>[[Garrett Reisman]]* (to June)<br/>[[Gregory Chamitoff]]† (from June)<br/><small>* - transferred from Expedition 16<br/>† - transferred to Expedition 18</small>
+"
+138,Expedition 18,Expedition_18,https://en.wikipedia.org/wiki/Expedition_18," ISS Expedition
+"," 
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Michael Fincke]]<br/>[[Yuri Lonchakov]]<br/>[[Gregory Chamitoff]]* (October–November)<br/>[[Sandra Magnus]] (November–March)<br/>[[Koichi Wakata]]† (March–April)<br/><small>* – transferred from Expedition 17<br/>† – transferred to Expedition 19</small>
+"
+139,Expedition 19,Expedition_19,https://en.wikipedia.org/wiki/Expedition_19," ISS Expedition
+"," 61&nbsp;days, 23&nbsp;hours, 29&nbsp;minutes
+"," 
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 3
+"," [[Gennady Padalka]]<br/>[[Michael R. Barratt|Michael Barratt]]<br/>[[Koichi Wakata]]*<br/><small>* - transferred from Expedition 18<br/>All members transferred to Expedition 20</small>
+"
+140,Expedition 22,Expedition_22,https://en.wikipedia.org/wiki/Expedition_22," ISS Expedition
+"," 167&nbsp;days (at ISS)<br/><small>169&nbsp;days (launch to landing)</small>
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 5
+"," '''Expedition 21/22''':<br/>[[Jeffrey N. Williams]]<br/>[[Maksim Surayev]]<br/><br/>'''Expedition 22/23''':<br/>[[Oleg Kotov]]<br/>[[Soichi Noguchi]]<br/>[[Timothy Creamer]]
+"
+141,Expedition 24,Expedition_24,https://en.wikipedia.org/wiki/Expedition_24," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 23/24''':<br/>[[Aleksandr Skvortsov (cosmonaut)|Aleksandr Skvortsov]]<br/>[[Mikhail Korniyenko]]<br/>[[Tracy Caldwell Dyson]]<br/><br/>'''Expedition 24/25''':<br/>[[Fyodor Yurchikhin]]<br/>[[Shannon Walker]]<br/>[[Douglas H. Wheelock]]
+
+"
+142,Expedition 25,Expedition_25,https://en.wikipedia.org/wiki/Expedition_25," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 24/25''':<br/>[[Douglas H. Wheelock]]<br/>[[Shannon Walker]]<br/>[[Fyodor Yurchikhin]]<br/><br/>'''Expedition 25/26''':<br/>[[Scott Kelly (astronaut)|Scott J. Kelly]]<br/>[[Aleksandr Kaleri]]<br/>[[Oleg Skripochka]]
+
+"
+143,Expedition 28,Expedition_28,https://en.wikipedia.org/wiki/Expedition_28," ISS Expedition
+","
+","
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 27/28''':<br/>[[Andrei Borisenko]]<br/>[[Aleksandr Samokutyayev]]<br/>[[Ron Garan]]<br/><br/>'''Expedition 28/29''':<br/>[[Sergey Alexandrovich Volkov|Sergey Volkov]]<br/>[[Mike Fossum]]<br/>[[Satoshi Furukawa]]
+
+"
+144,Expedition 30,Expedition_30,https://en.wikipedia.org/wiki/Expedition_30," ISS Expedition
+","
+"," 
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 29/30''':<br/>[[Dan Burbank]]<br/>[[Anton Shkaplerov]]<br/>[[Anatoli Ivanishin]]<br/><br/>'''Expedition 30/31''':<br/>[[Oleg Kononenko]]<br/>[[André Kuipers]]<br/>[[Don Pettit]]
+
+"
+145,Expedition 32,Expedition_32,https://en.wikipedia.org/wiki/Expedition_32," ISS Expedition
+","
+"," 
+
+",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," 6
+"," '''Expedition 31/32''':<br/>[[Gennady Padalka]]<br/>[[Joseph M. Acaba]]<br/>[[Sergei Revin]]<br/><br/>'''Expedition 32/33''':<br/>[[Sunita Williams]]<br/>[[Yuri Malenchenko]]<br/>[[Akihiko Hoshide]]
+
+"

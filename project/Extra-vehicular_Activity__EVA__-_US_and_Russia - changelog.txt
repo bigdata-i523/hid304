@@ -1,0 +1,23 @@
+
+These errors in this dataset were discovered during the cleaning.
+	1) The category label for Crew was not formatted as 'Crew' but as 'Crew    ' with 4 erroneous trailing spaces. Trailing spaces were removed manually.
+
+	2) Typos in the 'Date' category were fixed.
+		Line 240 (index 238) does not include a day between month and year. 'Sept. 1973' manually changed to 'Sept. 27, 1973'
+		Line 260 (index 258) missing space between day and year. 'Feb. 26,1988' manually changed to 'Feb. 26, 1988'
+
+	3) 'Duration' category values fixed.
+		Line 39 (index 37) included empty cell, instead of 0 value. 0 value added manually
+
+These errors in the dataset were discovered following the creation of 'spacewalk_with_orbital_data.csv'.
+	4) Line 231 (index 229) has outlier 'Vehicle' formatting. 'ISS-Incr 28 during STS-135/ULF7' changed to 'ISS-Incr 28 / STS-135'
+	
+	5) Line 234 has outlier 'Vehicle' formatting. 'Soyuz 4&5' changed to 'Soyuz 4'. 
+	
+	6) New line appended at line 377 with identical data as line 234 (Soyuz 4). 'Vehicle' category changed to 'Soyuz 5'
+
+	7) Unconventional naming of Soyuz project creates Soyuz-TM-X and Soyuz-TM-22. These missions are the same. 
+		Line 305-Line 307 'Vehicle' changed from 'Soyuz TM-X     Mir 20' to 'Soyuz TM-22     Mir 20'
+		
+	8) Lines 77 and 78 describe EVA by STS-72 astronauts. No vehicle name is present in line 78. 'STS-72' name is manually appended to 'Vehicle'
+
