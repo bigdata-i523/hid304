@@ -4,6 +4,7 @@
 * 10/25/16 Catching up on office hour recordings
 * 10/26/17 Final Project Dataset with Spacewalk Data downloaded from NASA Open Data
 * 11/12/17 Completed code to get wikipedia infobox data on applicable space walks to assemble mission telemetry dataset 
+* 12/4/17 Completed final project
 
 # Theory
 
@@ -18,6 +19,7 @@
 
 * 10/25/17 Paper 1: Reviewing notes to expand paper to appropriate length 
 * 10/25/17 Paper 2: Downloaded Orbital Elements dataset from NASA Open Data Portal to view structure of telemetry data
+* 12/3/17 Project Report Completed
 
 # Location
 
