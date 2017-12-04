@@ -58,38 +58,43 @@ paper2:
 
 project:
     abstract: >
-        This project will use data from the NASA Archives, 
-        The NASA Open Data Portal, and other available 
-        telemetry data from the US and Russian space 
-        programs to analyze American and Russian spacewalks. 
-        It will calculate the distance traveled, relative to 
-        the earth's surface, by astronauts and cosmonauts who 
-        performed Extra Vehicular Activities in earth orbit. 
-        These calculations must account for orbital inclination, 
-        altitude, and eccentricity of each respective mission 
-        combined with the start time and duration of each space 
-        walk. The calculations will be made in python and a final 
-        geovisualization will display an earth orbit map for these 
-        space walks.
+        We use data from the NASA Open Data Portal 
+        mission parameters parsed from the Wikipedia 
+        pages of manned spaceflight missions of the 
+        U.S. and Russian space programs to analyze 
+        American and Russian spacewalks. We calculate 
+        the distance traveled, relative to the earth's 
+        surface, by astronauts and cosmonauts who performed 
+        Extravehicular Activities (EVA) in earth orbit. 
+        As part of that calculation, numerous other 
+        orbital parameters will be calculated. 
     author:
         - Ricky Carmickle
     pid:
         - 0
-    status: in progress
+    status: 100%
     title: How Far have Space Walks Walked 
-    type: ipynb, latex, 
+    type: ipynb, latex
     url: https://github.com/bigdata-i523/hid304/project/
 project:
     review: Dec 4 2017
     author:
-        - Gregor von Laszewski
+        - Ricky Alan Carmickle
     hid:
-        - 000
-    title: null
+        - 304
+    title: How Far have Space Walks Walked 
     abstract: >
-        We showcase tis and that and the other
-        and another line.
+        We use data from the NASA Open Data Portal 
+        mission parameters parsed from the Wikipedia 
+        pages of manned spaceflight missions of the 
+        U.S. and Russian space programs to analyze 
+        American and Russian spacewalks. We calculate 
+        the distance traveled, relative to the earth's 
+        surface, by astronauts and cosmonauts who performed 
+        Extravehicular Activities (EVA) in earth orbit. 
+        As part of that calculation, numerous other 
+        orbital parameters will be calculated.
     url: https://github.com/bigdata-i523/sample-hid000/project/
     type: project
-    status: Dec 04 17 0%
+    status: Dec 04 17 100%
 chapter: TBD
