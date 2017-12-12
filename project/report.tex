@@ -55,7 +55,7 @@ The starting point is the dataset from the NASA Open Data Portal, a 2015 dataset
 
 From the ‘Vehicle’ category of this data, a single column of unique mission names was generated manually. This single column was formatted to remove non-mission-related text and appended to a single-category csv file. The 'Vehicle category formatting was vital to this project since this was the merging category for the EVA dataset and orbital parameter dataset.
 
-The Jupyter notebook '1_gathering_wikipedia_infobox_data' contains the steps for creating a dataset with significant details on each given mission which can be generated from the a single category containing the name of the mission. 
+The Jupyter notebook '1-gathering-wikipedia-infobox-data' contains the steps for creating a dataset with significant details on each given mission which can be generated from the a single category containing the name of the mission. 
 
 The data gathering stage of the project emerged, over the course of this project, as the step with the highest Big Data potential. The usability and flexibility of the code developed here was unexpected for the author and has demonstrated applicability for gathering and parsing Wikipedia data for other desired categories.
 
@@ -63,22 +63,22 @@ Several different open-source libraries were used together at this stage in a no
 
 These parameters could, however, could be altered to fit any set of Infobox categories. The interface for searching and retrieving JSON data on Wikipedia pages was tested during development with wikipedia pages unrelated to manned space travel and is capable of retrieving data from pages with different JSON configurations on data charts contained on Wikipedia. 
 
-The ‘mission_name’ file is the only necessary input file to generate the dataset. The only requirement of the category names in this file is that they must be close to the string that would appear as the title of the desired Wikipedia page. They do not, however, need to be an exact match. The `Wikipedia’ library by Jonathan Goldsmith \cite{Goldsmith2017} is a flexible library which can access the Wikipedia API and utilize Wikipedia’s search function to retrieve the URL of the desired page. This library had many functions for accessing Wikipedia data, but does not include a method to access tables and charts.
+The ‘mission-name’ file is the only necessary input file to generate the dataset. The only requirement of the category names in this file is that they must be close to the string that would appear as the title of the desired Wikipedia page. They do not, however, need to be an exact match. The `Wikipedia’ library by Jonathan Goldsmith \cite{Goldsmith2017} is a flexible library which can access the Wikipedia API and utilize Wikipedia’s search function to retrieve the URL of the desired page. This library had many functions for accessing Wikipedia data, but does not include a method to access tables and charts.
 
-This library was capable of identifying than an input of ``Gemini IV’’ corresponds to the proper article title of ``Gemini 4’’ and the exact URL string of ``https://en.wikipedia.org/wiki/Gemini_4’’. The exact article title string is necessary for the step which iterates through individual pages and appends the data.
+This library was capable of identifying than an input of ``Gemini IV’’ corresponds to the proper article title of ``Gemini 4’’ and the exact URL string of ``https://en.wikipedia.org/wiki/Gemini-4’’. The exact article title string is necessary for the step which iterates through individual pages and appends the data.
 
 The data fetching process makes a request through pywikibot \cite{Wikimedia} of the Wikipedia API for a given page. Pywikibot retrieves a raw version of the entire page. Mwparserfromhell \cite{Kurtovic2017} identifies templates matching JSON charts and returns a name and value list for every parameter name and values for every JSON chart template on each page. 
 
 The input file which provides article titles and the category names matched to the parameter names in the JSON date could be changed to retrieve data for other interests. The code uses for gathering the data is not efficient and had much room for improvement. A future project the author will pursue is an interface which accepts a column of strings corresponding to entities with Wikipedia pages and a column of parameter names from the Infobox and returning a dataset which fills as much data as is available. 
 
 \section{Cleaning the Data}
-The Jupyter notebook '2_data_cleaning_and_merging' cleans both the EVA and raw mission datasets. The ‘mission_data_raw.csv’ data is not a usable dataset immediately following parsing from Wikipedia. The author was unable to implement code to recognize raw JavaScript and JSON data to append only the necessary substrings, so this textual data was cleaned with code written specifically for each category. This stage relies heavily on basic string editing functions such as replace, strip, and split. For maximum flexibility with calculations, elements of the data were reduced to the simplest components or summarized in a way that left a single integer or floating value. 
+The Jupyter notebook '2-data-cleaning-and-merging' cleans both the EVA and raw mission datasets. The ‘mission-data-raw.csv’ data is not a usable dataset immediately following parsing from Wikipedia. The author was unable to implement code to recognize raw JavaScript and JSON data to append only the necessary substrings, so this textual data was cleaned with code written specifically for each category. This stage relies heavily on basic string editing functions such as replace, strip, and split. For maximum flexibility with calculations, elements of the data were reduced to the simplest components or summarized in a way that left a single integer or floating value. 
 For example, the original string scraped from Wikipedia for ‘mission duration’ was roughly formatted as “n months, x, days, y hours, z minutes” but permutations of JavaScript code, misread ASCII characters, and inconsistencies in the categories used were common. Several categories of data were added in the data cleaning process. 
 One instance of data creation which should be noted is the appending of current International Space Station (ISS) orbital parameters to all missions beginning with “Expedition”. This data should be considered an experimental stand-in for complete data for respective spacewalks because the ISS’s orbit is not stable. The orbit of the ISS decays over time since the craft experiences a small amount of atmospheric drag \cite{Hutchinson2013}. The ISS is also navigated in orbit. The true orbital parameters of the ISS for the duration of any given spacewalk would require a data framework which can access the orbital history of the ISS, a function beyond the scope of this project and the skillset of the author. The ISS has, however, remained close to 250 miles overhead for the duration of its existence and has never been accelerated to create a high orbital eccentricity, so a generalized set of orbital parameters will provide an acceptable baseline for ISS spacewalks.
 
 The data cleaning for many categories was a repetitive task of removing errant characters. Future development would benefit from the author better understanding the relationship between JavaScript, JSON, html, and Python so that syntax from one language can be cleaned before importing to a data file.
 
-The mission data parsed from Wikipedia was not the only dataset that needed addressing. The EVA dataset required work to render it usable. This dataset included many one-time typos and oddities in columns which required manual changing in the csv data. “Extra-vehicular_Activity__EVA__-_US_and_Russia.csv” is therefore not exactly as one would find it from the NASA Open Data Portal. The precise alterations made to this data are detailed in  “changelog to Extra-vehicular_Activity__EVA__-_US_and_Russia.txt”. The altered EVA datafile is needed to run this project. 
+The mission data parsed from Wikipedia was not the only dataset that needed addressing. The EVA dataset required work to render it usable. This dataset included many one-time typos and oddities in columns which required manual changing in the csv data. “Extra-vehicular-Activity--EVA----US-and-Russia.csv” is therefore not exactly as one would find it from the NASA Open Data Portal. The precise alterations made to this data are detailed in  “changelog to Extra-vehicular-Activity--EVA----US-and-Russia.txt”. The altered EVA datafile is needed to run this project. 
 
 New categories of data were generated from the EVA dataset before it was ever merged with the orbital parameter data. The single string of crew names was split into separate columns, each containing either the name of a crew member who participated in EVA or ‘NaN’. The spacewalk duration, in seconds, was calculated for ease in mathematics later on. 
 Over the course of this project, the author learned much about orbital ground tracks and was refreshed on the mathematics underlying orbital mechanics. One of the limitations of the EVA dataset was revealed at this stage: The dataset includes the data (month/day/year) where a given spacewalk occurred, but the creation of an orbital EVA ground trace would require the month, day, year, hour, minute, and second of the beginning of an EVA to create an accurate trace given the relative speed over the ground of low-earth orbit spacecraft. The available data does provide information accurate enough to calculate orbital velocity and distances traveled. 
@@ -86,7 +86,7 @@ Over the course of this project, the author learned much about orbital ground tr
 The data cleaning notebook ends with merging the EVA data and the orbital parameter data into a single DataFrame on the ‘Vehicle’ column.
 
 \section{Data Analysis and Calculations}
-The third notebook uses only the new dataset ‘spacewalk_with_orbital_data.csv.’ Because the data has been cleaned, merged, and homogenized to consistent units of measurement, the mathematics of further orbital details are relatively simple calculations across a DataFrame.  The Earth’s equatorial radius and gravitational constant \cite{Williams2016} are variables contained within the notebook and units are converted as needed.  
+The third notebook uses only the new dataset ‘spacewalk-with-orbital-data.csv.’ Because the data has been cleaned, merged, and homogenized to consistent units of measurement, the mathematics of further orbital details are relatively simple calculations across a DataFrame.  The Earth’s equatorial radius and gravitational constant \cite{Williams2016} are variables contained within the notebook and units are converted as needed.  
 From the data scraped from the Wikipedia API, we can calculate the semi-major and semi-minor axes of each orbit, the eccentricity, and the orbital velocity of a given orbits where all earlier parameters were present \cite{Wolfson2007}. 
 
 \section{Results}
@@ -116,7 +116,7 @@ The analysis notebook includes code to begin the process of creating correct gro
 In Figure \ref{f:fig1} we show a complete list of distance traveled in EVA by astronauts of every American or Russian mission launched until 2013. 
 
 \begin{figure}[!ht]
-  \centering\includegraphics[width=\columnwidth]{images/fig1.pdf}
+  \centering\includegraphics[width=\columnwidth]{images/fig1.png}
   \caption{All Distances}\label{f:fig1}
 \end{figure}
 
@@ -124,7 +124,7 @@ In Figure \ref{f:fig1} we show a complete list of distance traveled in EVA by as
 In Figure \ref{f:fig2} we show a parallel coordinate plot of mission launch year and EVA duration. 
 
 \begin{figure}[!ht]
-	\centering\includegraphics[width=\columnwidth]{images/fig2.pdf}
+	\centering\includegraphics[width=\columnwidth]{images/fig2.png}
 	\caption{Parallel Coordinate Launch Year and EVA}\label{f:fig2}
 \end{figure}
 
@@ -132,7 +132,7 @@ In Figure \ref{f:fig2} we show a parallel coordinate plot of mission launch year
 In Figure \ref{f:fig3} we show a scatterplot of mission inclination colored by country of launch. A pattern reflective of launchsites and mission destinations is apparent.
 
 \begin{figure}[!ht]
-	\centering\includegraphics[width=\columnwidth]{images/fig3.pdf}
+	\centering\includegraphics[width=\columnwidth]{images/fig3.png}
 	\caption{Inclination and Country}\label{f:fig3}
 \end{figure}
 
@@ -140,7 +140,7 @@ In Figure \ref{f:fig3} we show a scatterplot of mission inclination colored by c
 In Figure \ref{f:fig4} we show the linear regression results of the reported orbital period versus the predicted period calculated from other fields in the data. 
 
 \begin{figure}[!ht]
-	\centering\includegraphics[width=\columnwidth]{images/fig4.pdf}
+	\centering\includegraphics[width=\columnwidth]{images/fig4.png}
 	\caption{Linear Regression}\label{f:fig4}
 \end{figure}
 
