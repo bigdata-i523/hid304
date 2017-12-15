@@ -117,23 +117,23 @@ The analysis notebook includes code to begin the process of creating correct gro
 
 In Figure \ref{f:fig1} we show a complete list of distance traveled in EVA by astronauts of every American or Russian mission launched until 2013. 
 
-\begin{figure}[!ht]
-  \centering\includegraphics[width=\columnwidth]{images/fig1.png}
+\begin{figure*}[htb]
+  \centering\includegraphics[height=1.0\textheight]{images/fig1.png}
   \caption{All Distances}\label{f:fig1}
-\end{figure}
+\end{figure*}
 
 
 In Figure \ref{f:fig2} we show a parallel coordinate plot of mission launch year and EVA duration. 
 
-\begin{figure}[!ht]
-	\centering\includegraphics[width=\columnwidth]{images/fig2.png}
+\begin{figure*}[p]
+	\centering\includegraphics[height=1.0\textheight]{images/fig2.png}
 	\caption{Parallel Coordinate Launch Year and EVA}\label{f:fig2}
-\end{figure}
+\end{figure*}
 
 
 In Figure \ref{f:fig3} we show a scatterplot of mission inclination colored by country of launch. A pattern reflective of launchsites and mission destinations is apparent.
 
-\begin{figure}[!ht]
+\begin{figure}[p]
 	\centering\includegraphics[width=\columnwidth]{images/fig3.png}
 	\caption{Inclination and Country}\label{f:fig3}
 \end{figure}
@@ -141,7 +141,7 @@ In Figure \ref{f:fig3} we show a scatterplot of mission inclination colored by c
 
 In Figure \ref{f:fig4} we show the linear regression results of the reported orbital period versus the predicted period calculated from other fields in the data. 
 
-\begin{figure}[!ht]
+\begin{figure}[htb]
 	\centering\includegraphics[width=\columnwidth]{images/fig4.png}
 	\caption{Linear Regression}\label{f:fig4}
 \end{figure}
@@ -150,10 +150,11 @@ In Figure \ref{f:fig4} we show the linear regression results of the reported orb
 
 \section{Tables}
 
-\begin{table}[]
+\begin{table*}[htb]
 	\centering
 	\caption{Table 1. Longest Distance Spacewalks}
 	\label{mytable}
+\resizebox{\textwidth}{!}{%
 	\begin{tabular}{llllllllll}
 		\textbf{Vehicle} & \textbf{Date} & \textbf{Duration} & \textbf{Distance Spacewalked (meters)} & \textbf{Crew 1}    & \textbf{Crew 2}      & \textbf{Crew 3} & \textbf{Spacewalk Duration (seconds)} & \textbf{Orbital Perimeter} & \textbf{Orbital Velocity} \\
 		STS-102          & 3/10/2001     & 8:56              & 246946540                              & Jim Voss           & Susan Helms          &                 & 32160                                 & 42432.42                   & 7678.69                   \\
@@ -176,8 +177,8 @@ In Figure \ref{f:fig4} we show the linear regression results of the reported orb
 		STS-125          & 5/15/2009     & 7:56              & 213048095                              & Mike Massimino     & Mike Good            &                 & 28560                                 & 43415.26                   & 7459.67                   \\
 		STS-100          & 4/24/2001     & 7:40              & 212401275                              & Scott Parazynski   & Chris Hadfield       &                 & 27600                                 & 42290.94                   & 7695.70                   \\
 		Expedition 15    & 7/23/2007     & 7:41              & 212038551                              & Clay Anderson      & Fyodor Yurchikhin    &                 & 27660                                 & 42614.69                   & 7665.89                  
-\end{tabular}
-\end{table}
+\end{tabular}}
+\end{table*}
 
  
 
