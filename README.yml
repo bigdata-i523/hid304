@@ -28,7 +28,6 @@ paper1:
         - 304
     status: Nov 1 17 100%
     title: Big Data and Astrophysics
-    type: latex
     url: https://github.com/bigdata-i523/hid304/paper1/
 paper2:
     review: Nov 6 2017
@@ -53,9 +52,7 @@ paper2:
         - 304
     status: 100%
     title: Big Data in Deep Space Telemetry and Navigation
-    type: latex
     url: https://github.com/bigdata-i523/hid304/paper2/
-
 project:
     abstract: >
         We use data from the NASA Open Data Portal 
